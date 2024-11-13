@@ -15,10 +15,10 @@ The general public tends to avoid reliable sources such as scientific literature
 The track has the following four concrete tasks.
  
 ## [Tasks](./tasks)
-- [Task 1](./tasks): What is in (or out)? Selecting passages to include in a simplified summary.
-- [Task 2](./tasks): What is unclear? Difficult concept identification and explanation (definitions, abbreviation deciphering, context, applications,..).
-- [Task 3](./tasks): Rewrite this! Given a query, simplify passages from scientific abstracts.
-- [Task 4](./tasks): SOTA? Given an AI paper which reports model performances on benchmark datasets, extract all related information (task, dataset, metric, score). Please visit the [Task 4 website](https://sites.google.com/view/simpletext-sota/home) for information on registration, how to participate, task timelines, and dataset download links.
+- [Task 1](./tasks): Text Simplification: Simplify scientific text.
+- [Task 2](./tasks): Controlled Creativity): Identify and avoid hallucination.
+- [Task 3](./tasks): LeaderBoardQA : Extract the state-of-the-art from scientific text.
+- [Task 4](./tasks): SimpleText 2024 Revisited : Selected tasks by popular request.
 
 ## How to participate
 In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php) website. The registration opens on 13th November 2023 (modify).
