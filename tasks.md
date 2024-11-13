@@ -5,22 +5,23 @@
 
 ---
 ## How to participate
-In order to participate, you should sign up at the [CLEF](https://clef2024.clef-initiative.eu/index.php) website: [http://clef2024-labs-registration.dei.unipd.it/](http://clef2023-labs-registration.dei.unipd.it/). 
+In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php) website: [http://clef2025-labs-registration.dei.unipd.it/](http://clef2024-labs-registration.dei.unipd.it/). 
 
 All team members should join the SimpleText mailing list:
 [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 
 
 The data will be made available to all registered participants.
 
-## Task 1: Retrieving passages to include in a simplified summary
+## Task 1: Text Simplification (simplify scientific text)
 
-Given a popular science article targeted to a general audience, this task aims at retrieving passages, which can help to understand this article, from a large corpus of academic abstracts and bibliographic metadata. Relevant passages should relate to any of the topics in the source article. These passages can be complex and require further simplification to be carried out in tasks 2 and 3. Task 1 focuses on content retrieval.
+### Description
+This is the core NLP task of the track, and we continue with both sentence-level (Task 1.1 ) and document-level (Task 1.2 ) scientific text simplification. The main innovation is the very large new corpus we constructed in 2024, and the shift to the biomedical domain. We are discussing a third text alignment task, where two related abstracts (either source and reference, or source and predictions) need to be aligned at the sentence level, with possible n-to-n alignments (sentence splits or merges). Text alignment is a popular NLP task and key to CLEF 2025 SimpleText Task 2 below.
 
 ### Data
-We use popular science articles as a source for the types of topics the general public is interested in and as a validation of the reading level that is suitable for them. The main corpus is a large set of scientific abstracts plus associated metadata covering the field of computer science and engineering. We reuse the collection of academic abstracts from the Citation Network Dataset ([12th version released in 2020](https://www.aminer.cn/citation)). This collection was extracted from DBLP, ACM, MAG (Microsoft Academic Graph), and other sources. Search requests are based on popular press articles targeted to a general audience, based on _The Guardian_ and _Tech Xplore_. Each of these popular science articles represents a general topic that has to be analyzed to retrieve relevant scientific information from the corpus. We provide the URLs to original articles, the title, and the textual content of each popular science article as a general topic. Each general topic was also enriched with one or more specific keyword queries manually extracted from their content, creating a familiar information retrieval task ranking passages or abstracts in response to a query.
+We constructed a large scientific text simplification corpus, based on realigning abstracts and lay summaries at scale at sentence, paragraph, and document-level. 
 
 ### Evaluation
-Topical relevance was evaluated last year with a 0-2 score on the relevance degree towards the content of the original article. In 2023, we provided an initial analysis of text complexity (based on readability measures) and authoritativeness (based on academic impact measures). In 2024, we plan to provide additional evaluation measures on both topical relevance and complexity/credibility. While these criteria can provide different levels of comparison between systems, we will continue to provide standard ranking scores based on NDCG.
+We will use standard automatic evaluation measures (SARI, Blue, LENS, BERTscore,...) in combination human assessment of samples of the submissions by translation students and professionals. CLEF SimpleText has been the first and main driver of research in this IR/NLP area, but we align with related activities such as Scholarly Document Processing, and the new TREC PABLA track.
 
 ## Task 2: Identifying and explaining difficult concepts
 
