@@ -1,7 +1,7 @@
-# CLEF 2024 SimpleText: Tasks
+# CLEF 2025 SimpleText: Tasks
 
 [Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
-[Program](./program) | [Publications](./publications) | [Organizers](./organizers) | [Contact](./contact) | [CLEF-2023](https://simpletext-project.com/2023/clef/)
+[Program](./program) | [Publications](./publications) | [Organizers](./organizers) | [Contact](./contact) | [CLEF-2024](https://simpletext-project.com/2024/en/)
 
 ---
 ## How to participate
