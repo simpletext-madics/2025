@@ -1,4 +1,4 @@
-# CLEF 2025 SimpleText Track
+# CLEF 2024 SimpleText Track
 
 ---
 
@@ -21,7 +21,7 @@ The track has the following four concrete tasks.
 - [Task 4](./tasks): SOTA? Given an AI paper which reports model performances on benchmark datasets, extract all related information (task, dataset, metric, score). Please visit the [Task 4 website](https://sites.google.com/view/simpletext-sota/home) for information on registration, how to participate, task timelines, and dataset download links.
 
 ## How to participate
-In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php) website. The registration opens on 13th November 2023.
+In order to participate, you should sign up at the [CLEF](https://clef2024.clef-initiative.eu/index.php) website. The registration opens on 13th November 2023.
 
 All team members should join the SimpleText mailing list:
 [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 
@@ -46,5 +46,5 @@ SimpleText is supported by the French research network on Big Data - Data Scienc
  <a href="https://anr.fr/Projet-ANR-22-CE23-0019"><img src="img/ANR-logo-2021-complet.jpg" height="120"></a>
  <a href="https://www.madics.fr/actions/simpletext/"><img src="img/Logo-CNRS-MaDICS.jpg" height="120"></a>
  <a href="https://www.clef-initiative.eu/"><img src="img/clef-logo.png" height="120"></a>
- <a href="https://clef2025.clef-initiative.eu/"><img src="img/clef2025.png" height="120"></a>
+ <a href="https://clef2024.clef-initiative.eu/"><img src="img/clef2024.png" height="120"></a>
 </div>
