@@ -25,38 +25,36 @@ We will use standard automatic evaluation measures (SARI, Blue, LENS, BERTscore,
 
 ## Task 2: Identifying and explaining difficult concepts
 
-The goal of this task is to decide which concepts in scientific abstracts require explanation and contextualization in order to help a reader understand the scientific text. The task has two steps: 
+To our own surprise, the SimpleText track has collected a massive collection of spurious (or over-) generation content from it’s participants. 
 
-i) to retrieve up to 5 difficult terms in a given passage from a scientific abstract
-ii) to provide a definition or an explanation or both of these difficult terms.
+Our text simplification setup has sources, predictions, and references that are closely aligned and in the same language, in order
+to study source attribution and creative variation, as well as to identify and avoid what is informally called “hallucinations”
 
-The corpus of Task 2 is based on the sentences in high-ranked abstracts to the requests of Task 1.
+### Description
 
-### Evaluation
-We will evaluate complex concept spotting in terms of their complexity and the detected concept spans. We will automatically evaluate provided explanations by comparing them to references (e.g. ROUGE, cosine similarity, etc.). In addition, we will manually evaluate the provided explanations in terms of their usefulness with regard to a query as well as their complexity for a general audience. Note that the provided explanations can have different forms, e.g. abbreviation deciphering, examples, use cases, etc.
-
-## Task 3: Simplify Scientific Text
-
-The goal of this task is to provide a simplified version of sentences extracted from scientific abstracts. Participants will be provided with the popular science articles and queries and matching abstracts of scientific papers, split into individual sentences.
+Task 2.1 is to identify creative generation, at the abstract or document level. We will provide realistic system output from participants in earlier years, and some intentionally generated from known models. The task is to detect what sentences are fully grounded on source input (a) without and (b) with access to the source sentences, and hence also label those introducing significant new content. Task 2.1 is a post hoc identification or explanation task. Task 2.2 is to avoid creative generation, and perform grounded generation by design. This is mimicking Task 1 above, and asks to submit pairs of runs with/without source attribution by design. We are discussing a third text alignment task, related to both Task 1 and Task 2, in which we ask for optimal alignmentment of source attribution to align sentences/paragraphs in source and run output.
 
 ### Data
-3 uses the same corpus based on the sentences in high-ranked abstracts to the requests of Task 1. Our training data is a truly parallel corpus of directly simplified sentences coming from scientific abstracts from the DBLP Citation Network Dataset for _Computer Science_ and Google Scholar and PubMed articles on _Health and Medicine_. In 2024, we will expand the training and evaluation data. In addition to sentence-level text simplification, we will provide passage-level input and reference simplifications.
+
+In running the SimpleText track over the last three years, we have collected a very large set of realistic and representative predictions in the run submission. For Task 2.1, we will select a sample of models and predictions known to be prone to spurious generation. We have large scale data available with realigned sentences lacking support in the source to be used as training data. For Task 2.2, we follow the setup of Task 1: Text Simplification above, but request paired runs.
 
 ### Evaluation
-We will emphasize large-scale automatic evaluation measures (SARI, ROUGE, compression, readability) that provide a reusable test collection. This automatic evaluation will be supplemented with a detailed human evaluation of other aspects, essential for deeper analysis. We evaluate the complexity of the provided simplifications in terms of vocabulary and syntax as well as the errors (incorrect syntax; unresolved anaphora due to simplification; unnecessary repetition/iteration; spelling, typographic or punctuation errors). In previous runs almost all participants used generative models for text simplification, yet existing evaluation measures are blind to potential hallucinations with extra or distorted content. In 2024, we will provide new evaluation measures that detect and quantify hallucinations in the output.
 
-## Task 4: Tracking the State-of-the-Art in Scholarly Publications
-In Artificial Intelligence (AI), a common research objective is the development of new models that can report state-of-the-art (SOTA) performance. The reporting usually comprises four integral elements: Task, Dataset, Metric, and Score. These (Task, Dataset, Metric, Score) tuples coming from various AI research papers go on to power leaderboards in the community. Leaderboards, akin to scoreboards, traditionally curated by the community, are platforms displaying various AI model scores for specific tasks, datasets, and metrics. Examples of such platforms include the benchmarks feature on the Open Research Knowledge Graph and Papers with Code (PwC). Utilizing text mining techniques allows for a transition from the conventional community-based leaderboard curation to an automated text mining approach. Consequently, the goal of Task 4 is to develop systems which given the full text of an AI paper, are capable of recognizing whether an incoming AI paper indeed reports model scores on benchmark datasets, and if so, to extract all pertinent (Task, Dataset, Metric, Score) tuples presented within the paper. 
+Task 2.1 is essentially a sentence label task, evaluated in the standard way (Precision, Recall, F1). For token level evaluation, we use standard Jaccard.6 Task 2.2 is evaluated by both standard automatic measures, and human evaluation, similar to Task 1 (Text Simplification) above. The paired runs allow us to sample for difference at sentence and phrase level and efficiently evaluate these, using for example MT Unbabel.
 
-Please visit the [Task 4 website](https://sites.google.com/view/simpletext-sota/home) for information on registration, how to participate, task timelines, and dataset download links.
-### Data
-The training and test datasets for this task are derived from community-curated (T, D, M, S) annotations for thousands of AI articles available on PwC (CC BY-SA). These articles, originally sourced from arXiv under CC-BY licenses, are available in TEI XML format, each accompanied by one or more (T, D, M, S) annotations from PwC. The test set will strategically include only those articles with TDMs seen in the
-training set, creating a few-shot evaluation setting. In addition to the few-shot evaluation, we intend to introduce a second evaluation setting for Task 4, evaluating models in a zero-shot context, for which a new test dataset will be created. This dataset will be enriched by articles which do not report leaderboards in order to train participants systems to also assign correct labels to articles from other domains.
 
-### Evaluation
-Participants systems will be evaluated in two evaluation settings:
+## Task 3: LeaderBoardQA
 
-For __Few-shot__ evaluation, trained systems will have to predict (T, D, M, S) annotations on a new collection of articles’ full-text. The labels in the gold dataset will include only (T, D, M, S)’s seen at least once in training.
-For __Zero-shot__ evaluation, the task is as above with a different collection of articles, which have (T, D, M, S) with unseen T, D, or M in the training set.
+### Description
+CLEF 2024 was the pilot year of the SOTA? task at SimpleText. We focused and evaluated in 2024 the important pre-processing step of information extraction, for which advance LLMs show high performance (Giglou et al., 2023). We expand the leader board construction task to a domain specific QA task on AI model performance against a corpus of full-text scientific documents. This LeaderBoardQA task ask for nuggets of information on a given model or model and benchmark pair, in terms of exact performance and metrics. We expect participants to use LLMs and RAGs, and will provide open corpus and closed book submissions
 
-In both settings, the standard recall, precision, and F-score metrics will be used to report scores to the participant systems.
+### Data and evaluation
+We will significant revise the track setup and evaluation, re-using the CLEF 2024 community aligned data as training data, and providing human gold standard annotation for the evaluation and analysis. This will deliver a unique and valuable text collection for benchmarking this specific QA task. We will follow standard LLM/RAG evaluation for QA tasks. See also the details in the CEUR task overview paper for CLEF 2024 SimpleText Task 4 (D’Souza et al., 2024).
+
+## Task 4: SimpleText 2024 Revisited
+
+### Description
+CLEF 2025 SimpleText is very different from the earlier years. In order to facilitate the transition to the new track setup, we consider continuing one of the other CLEF 2024 SimpleText tracks (Task 1 on Content Selection: abstract re- trieval, Task 2 on Complexity Spotting: identifying and explaining difficult concepts). We will only continue those activities by request of, and with sufficient interest from, our active participants. We will discuss this with participants and the current team of organizers at CLEF 2024 in Grenoble
+
+### Data and evaluation
+See details in the LNCS track overview paper (Ermakova et al., 2024b), and the CEUR task overview papers for CLEF 2024 SimpleText Task 1 (Sanjuan et al., 2024) and Task 2 (Di Nunzio et al., 2024).
