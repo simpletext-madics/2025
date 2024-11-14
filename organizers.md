@@ -1,3 +1,8 @@
+---
+layout: default
+title: Organizers
+---
+
 # CLEF 2025 SimpleText: Organizers
 
 [Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
