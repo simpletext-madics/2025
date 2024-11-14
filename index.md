@@ -16,7 +16,7 @@ The track has the following four concrete tasks.
  
 ## [Tasks](./tasks)
 - [Task 1](./tasks): Text Simplification: Simplify scientific text.
-- [Task 2](./tasks): Controlled Creativity): Identify and avoid hallucination.
+- [Task 2](./tasks): Controlled Creativity: Identify and avoid hallucination.
 - [Task 3](./tasks): LeaderBoardQA : Extract the state-of-the-art from scientific text.
 - [Task 4](./tasks): SimpleText 2024 Revisited : Selected tasks by popular request.
 
