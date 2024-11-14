@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # CLEF 2025 SimpleText Track
 
 ---
