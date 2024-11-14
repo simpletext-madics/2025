@@ -1,3 +1,8 @@
+---
+layout: default
+title: Program
+---
+
 # SimpleText@CLEF-2025 Program
 
 [Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
