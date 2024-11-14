@@ -1,1 +1,54 @@
+/* Corps du texte */
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+    line-height: 1.8;
+    background-color: #f7f8fa;
+    margin: 0;
+    padding: 0;
+}
+
+/* Couleur de la bannière */
+header {
+    background-color: #1e3d59;
+    padding: 20px;
+    text-align: center;
+    color: #ffffff;
+}
+
+/* Liens */
+a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff6347;
+    text-decoration: underline;
+}
+
+/* Titre principal */
+h1, .header-title {
+    font-family: 'Roboto Slab', serif;
+    color: #e76f51;
+    text-align: center;
+    font-size: 2.8em;
+    margin-bottom: 10px;
+}
+
+/* Texte principal */
+p {
+    font-size: 1.1em;
+    color: #333;
+    padding: 0 10%;
+}
+
+/* Footer */
+footer {
+    background-color: #1e3d59;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 0.9em;
+}
 
