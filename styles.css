@@ -1,54 +1,117 @@
-/* Corps du texte */
-body {
-    font-family: 'Open Sans', sans-serif;
-    color: #333;
-    line-height: 1.8;
-    background-color: #f7f8fa;
+/* Resetting some basic styles */
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
-/* Couleur de la bannière */
-header {
-    background-color: #1e3d59;
-    padding: 20px;
-    text-align: center;
-    color: #ffffff;
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
 }
 
-/* Liens */
 a {
-    color: #1e90ff;
     text-decoration: none;
+    color: #1a73e8;
 }
 
 a:hover {
-    color: #ff6347;
     text-decoration: underline;
 }
 
-/* Titre principal */
-h1, .header-title {
-    font-family: 'Roboto Slab', serif;
-    color: #e76f51;
+/* Container to centralize content */
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Header */
+header {
+    background-color: #1a73e8;
+    color: white;
+    padding: 20px 0;
     text-align: center;
-    font-size: 2.8em;
+}
+
+header h1 {
+    font-size: 2.5rem;
     margin-bottom: 10px;
 }
 
-/* Texte principal */
-p {
-    font-size: 1.1em;
+header p {
+    font-size: 1.2rem;
+}
+
+/* Navigation Bar */
+nav {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    font-weight: bold;
+    color: white;
+}
+
+nav ul li a:hover {
+    color: #e74c3c;
+}
+
+/* Main content area */
+main {
+    padding: 40px 0;
+    background-color: #ffffff;
+    border-top: 3px solid #1a73e8;
+    border-bottom: 3px solid #1a73e8;
+}
+
+main h2 {
+    font-size: 2rem;
     color: #333;
-    padding: 0 10%;
+    margin-bottom: 20px;
+}
+
+main p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
 }
 
 /* Footer */
 footer {
-    background-color: #1e3d59;
-    color: #fff;
-    padding: 10px 0;
+    background-color: #333;
+    color: white;
     text-align: center;
-    font-size: 0.9em;
+    padding: 20px 0;
+    margin-top: 40px;
 }
 
+footer p {
+    font-size: 1rem;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+    }
+
+    nav ul li {
+        margin-bottom: 10px;
+    }
+}
