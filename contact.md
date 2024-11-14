@@ -1,3 +1,8 @@
+---
+layout: default
+title: Contacts
+---
+
 # CLEF 2025 SimpleText: Contacts
 
 [Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
