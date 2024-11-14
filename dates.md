@@ -1,3 +1,8 @@
+---
+layout: default
+title: Important dates
+---
+
 # CLEF 2025 SimpleText: Important dates
 
 [Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
