@@ -1,12 +1,27 @@
-title: CLEF 2025 SimpleText 
-email: contact@simpletext-project.com
-description: >- # this means to ignore newlines until "baseurl:"
-        SimpleText is a track organised as a part of <a href="https://clef2025.clef-initiative.eu/index.php">CLEF 2025 conference</a>, 
-        initiated by <a href="http://www.clef-initiative.eu/">CLEF initiative</a>.
-url: "http://simpletext-project.com/2024/en/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SimpletextW
-github_username:  simpletext-madics
+# Configuration générale pour le site SimpleText
+title: "CLEF 2025 - SimpleText Project"
+email: "contact@simpletext-project.com"
+description: >- # Maintient le contenu jusqu'à "baseurl:" sur une seule ligne
+  SimpleText est une piste organisée dans le cadre de la <a href="https://clef2025.clef-initiative.eu/index.php">conférence CLEF 2025</a>, 
+  lancée par l'initiative <a href="http://www.clef-initiative.eu/">CLEF</a>. Cette initiative vise à soutenir la recherche en évaluation 
+  de systèmes multilingues et multinationaux pour une compréhension améliorée.
 
-remote_theme: pages-themes/slate@v0.2.0
+# URL de base pour le site
+url: "http://simpletext-project.com/2024/en/" # Remplacer par l'adresse de base de votre site
+
+# Identifiants pour réseaux sociaux
+twitter_username: "SimpletextW"
+github_username: "simpletext-madics"
+
+# Thème et plugins
+remote_theme: "pages-themes/slate@v0.2.0" # Thème distant pour un style élégant et minimaliste
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # Pour activer le thème distant Jekyll
+
+# Paramètres supplémentaires (facultatif)
+timezone: "Europe/Paris"
+language: "en"
+
+# Remarques supplémentaires
+# - N'hésitez pas à ajouter d'autres configurations si nécessaire
+# - Par exemple, ajouter des pages spécifiques, des collections ou des variables personnalisées
