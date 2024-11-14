@@ -1,15 +1,32 @@
-title: "CLEF 2025 SimpleText" 
-email: "contact@simpletext-project.com"
-description: >-
-  SimpleText is a track organized as part of the
-  <a href="https://clef2025.clef-initiative.eu/index.php" style="color: #4682B4; font-weight: bold;">
-  CLEF 2025 conference</a>, initiated by the 
-  <a href="http://www.clef-initiative.eu/" style="color: #4682B4; font-weight: bold;">CLEF initiative</a>.
-url: "http://simpletext-project.com/2024/en/"
+title: "CLEF 2025 SimpleText"
+email: contact@simpletext-project.com
+description: "SimpleText est une piste organisée dans le cadre de la conférence CLEF 2025."
+url: "https://simpletext-project.com"
+baseurl: ""  # Pas de sous-répertoire, site à la racine
+theme: "pages-themes/slate@v0.2.0"
+
+# Configuration des plugins
+plugins:
+  - jekyll-remote-theme
+
+# Réseaux sociaux
 twitter_username: "SimpletextW"
 github_username: "simpletext-madics"
 
-# Theme and plugins
-remote_theme: "pages-themes/slate@v0.2.0"
-plugins:
-  - jekyll-remote-theme
+# Menu personnalisé
+menu:
+  - title: "Accueil"
+    url: "/"
+  - title: "Program"
+    url: "/program"
+  - title: "CFP"
+    url: "/cfp"
+  - title: "Dates"
+    url: "/dates"
+  - title: "Contact"
+    url: "/contact"
+
+# Paramètres personnalisés
+social:
+  twitter: "https://twitter.com/SimpletextW"
+  github: "https://github.com/simpletext-madics"
