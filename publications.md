@@ -1,3 +1,8 @@
+---
+layout: default
+title: Publication
+---
+
 # CLEF 2025 SimpleText: Publications
 
 [Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
