@@ -1,3 +1,7 @@
+---
+layout: default
+title: Tools
+---
 # CLEF 2025 SimpleText: Tools
 
 [Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
