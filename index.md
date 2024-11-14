@@ -60,5 +60,5 @@ _Overview of the CLEF 2024 SimpleText Task 4: SOTA? Tracking the State-of-the-Ar
  <a href="https://anr.fr/Projet-ANR-22-CE23-0019"><img src="img/ANR-logo-2021-complet.jpg" height="120"></a>
  <a href="https://www.madics.fr/actions/simpletext/"><img src="img/Logo-CNRS-MaDICS.jpg" height="120"></a>
  <a href="https://www.clef-initiative.eu/"><img src="img/clef-logo.png" height="120"></a>
- <a href="https://clef2024.clef-initiative.eu/"><img src="img/clef2024.png" height="120"></a>
+ <a href="https://clef2024.clef-initiative.eu/"><img src="img/clef2025-logo.png" height="120"></a>
 </div>
