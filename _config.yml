@@ -1,23 +1,15 @@
-# Configuration générale pour le site SimpleText
-title: "CLEF 2025 - SimpleText Project"
+title: "CLEF 2025 SimpleText" 
 email: "contact@simpletext-project.com"
-description: >- # Contenu principal de la page d'accueil
-  SimpleText est une initiative de la conférence <a href="https://clef2025.clef-initiative.eu/index.php">CLEF 2025</a>, lancée par l'<a href="http://www.clef-initiative.eu/">initiative CLEF</a> pour promouvoir la recherche en évaluation de systèmes multilingues.
-
-url: "http://simpletext-project.com/2024/en/" # Adresse de base du site
-
-# Réseaux sociaux
+description: >-
+  SimpleText is a track organized as part of the
+  <a href="https://clef2025.clef-initiative.eu/index.php" style="color: #4682B4; font-weight: bold;">
+  CLEF 2025 conference</a>, initiated by the 
+  <a href="http://www.clef-initiative.eu/" style="color: #4682B4; font-weight: bold;">CLEF initiative</a>.
+url: "http://simpletext-project.com/2024/en/"
 twitter_username: "SimpletextW"
 github_username: "simpletext-madics"
 
-# Thème et plugins
+# Theme and plugins
 remote_theme: "pages-themes/slate@v0.2.0"
 plugins:
   - jekyll-remote-theme
-
-# Paramètres de langue et fuseau horaire
-timezone: "Europe/Paris"
-language: "fr"
-
-# Remarques
-# - Ajouter des pages et sections supplémentaires si nécessaire
