@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tasks
+---
+
 # CLEF 2025 SimpleText: Tasks
 
 [Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
