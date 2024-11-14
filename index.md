@@ -17,11 +17,10 @@ The track has the following four concrete tasks.
 ## [Tasks](./tasks)
 - [Task 1](./tasks): Text Simplification: Simplify scientific text.
 - [Task 2](./tasks): Controlled Creativity: Identify and avoid hallucination.
-- [Task 3](./tasks): LeaderBoardQA : Extract the state-of-the-art from scientific text.
-- [Task 4](./tasks): SimpleText 2024 Revisited : Selected tasks by popular request.
+- [Task 3](./tasks): SimpleText 2024 Revisited : Selected tasks by popular request.
 
 ## How to participate
-In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php) website. The registration opens on 13th November 2023 (modify).
+In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php) website. The registration opens on 15th November 2024.
 
 All team members should join the SimpleText mailing list:
 [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 
@@ -31,13 +30,28 @@ The data will be made available to all registered participants.
 ## Acknowledgement  
 
 SimpleText is supported by the French research network on Big Data - Data Science [MADICS](https://www.madics.fr/). This research was funded, in whole or in part, by the French National Research Agency (ANR) under the project [ANR-22-CE23-0019-01](https://anr.fr/Project-ANR-22-CE23-0019). SimpleText's SOTA Task is jointly supported by the [NFDI4DataScience initiative](https://www.nfdi4datascience.de/) (DFG, German Research Foundation, Grant ID: 460234259) and the [SCINEXT project](https://scinext-project.github.io/) (BMBF, German Federal Ministry of Education and Research, Grant ID: 01lS22070)
+
 ## References  
 
-- L. Ermakova, E. SanJuan, S. Huet, H. Azarbonyad, O. Augereau, J. Kamps. "Overview of the CLEF 2023 SimpleText Lab: Automatic Simplification of Scientific Texts." Proceeding of CLEF’23, LNCS, Springer
-- L. Ermakova, E. SanJuan, S. Huet, O. Augereau, H. Azarbonyad, and J. Kamps. "CLEF 2023 SimpleText Track: What Happens If General Users Search Scientific Texts?” ECIR 2023 Proceedings
-- [É. Sanjuan, S. Huet, J. Kamps, L. Ermakova. "Overview of the CLEF 2023 SimpleText Task 1: Passage Selection for a Simplified Summary."](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-238.pdf)
-- [L. Ermakova, H. Azarbonyad, S. Bertin, O. Augereau. "Overview of the CLEF 2023 SimpleText Task 2: Difficult Concept Identification and Explanation."](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-239.pdf)
-- [L. Ermakova, S. Bertin, H. McCombie, J. Kamps. "Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts."](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-240.pdf)
+* L. Ermakova, E. SanJuan, S. Huet, H. Azarbonyad, G. M. Di Nunzio, F. Vezzani, J. D’Souza, J. Kamps,
+_Overview of the CLEF 2024 SimpleText track: Improving access to scientific texts for everyone_, in:
+Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](https://doi.org/10.1007/978-3-031-71908-0_13)).
+
+* Eric Sanjuan, Stéphane Huet, Jaap Kamps, Liana Ermakova
+_Overview of the CLEF 2024 SimpleText Task 1: Retrieve Passages to Include in a Simplified Summary_, 3115-3128
+([Paper](https://ceur-ws.org/Vol-3740/paper-305.pdf)).
+
+* Giorgio Maria Di Nunzio, Federica Vezzani, Vanessa Bonato, Hosein Azarbonyad, Jaap Kamps, Liana Ermakova
+_Overview of the CLEF 2024 SimpleText Task 2: Identify and Explain Difficult Concepts_, 3129-3146
+([Paper](https://ceur-ws.org/Vol-3740/paper-306.pdf)).
+
+* Liana Ermakova, Valentin Laimé, Helen McCombie, Jaap Kamps
+_Overview of the CLEF 2024 SimpleText Task 3: Simplify Scientific Text_, 3147-3162
+([Paper](https://ceur-ws.org/Vol-3740/paper-307.pdf)).
+
+* Jennifer D'Souza, Salomon Kabongo, Hamed Babaei Giglou, Yue Zhang
+_Overview of the CLEF 2024 SimpleText Task 4: SOTA? Tracking the State-of-the-Art in Scholarly Publications_, 3163-3173
+([Paper](https://ceur-ws.org/Vol-3740/paper-308.pdf)).
 
 ---
 
