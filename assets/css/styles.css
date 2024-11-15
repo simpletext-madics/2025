@@ -12,7 +12,6 @@ body {
     background-size: cover;
     color: #333;
     line-height: 1.6;
-    padding: 20px;
 }
 
 /* Centralize content */
@@ -48,18 +47,20 @@ header p {
 
 /* Navigation Bar */
 nav {
-    margin-top: 20px;
-    background-color: #333;
-    color: white;
-    padding: 10px 0;
-    text-align: center;
-    border-radius: 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
 nav ul {
     list-style: none;
     display: flex;
     justify-content: center;
+    padding: 15px 0;
+    background-color: transparent; /* Transparent initialement */
+    color: white;
 }
 
 nav ul li {
@@ -69,15 +70,23 @@ nav ul li {
 nav ul li a {
     font-weight: bold;
     color: white;
+    font-size: 1rem;
 }
 
 nav ul li a:hover {
     color: #f39c12;
 }
 
+/* Active when scrolling */
+nav.scrolled {
+    background-color: rgba(168, 230, 207, 0.9); /* Vert clair transparent */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: #333;
+}
+
 /* Main content */
 main {
-    margin: 40px 0;
+    margin: 80px 0; /* Pour éviter le chevauchement avec la nav */
     text-align: center;
 }
 
