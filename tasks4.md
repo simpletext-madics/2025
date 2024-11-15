@@ -5,9 +5,6 @@ title: Tasks
 
 # CLEF 2025 SimpleText: Tasks
 
-[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
-[Program](./program) | [Publications](./publications) | [Organizers](./organizers) | [Contact](./contact) | [CLEF-2024](https://simpletext-project.com/2024/en/)
-
 ---
 ## How to participate
 In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php) website: [http://clef2025-labs-registration.dei.unipd.it/](http://clef2024-labs-registration.dei.unipd.it/). 
