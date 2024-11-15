@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Tasks
+---
 
 # CLEF 2025 SimpleText: Tasks
 
