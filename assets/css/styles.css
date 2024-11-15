@@ -7,51 +7,53 @@
 
 /* Global Styles */
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f4f4f9;
+    font-family: 'Verdana', sans-serif;
+    background: url('background-image.jpg') no-repeat center fixed; /* Mettre le lien vers votre image */
+    background-size: cover;
     color: #333;
     line-height: 1.6;
+    padding: 20px;
 }
 
-a {
-    text-decoration: none;
-    color: #1a73e8;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-/* Container to centralize content */
+/* Centralize content */
 .container {
-    width: 90%;
+    width: 80%;
     max-width: 1200px;
     margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.9); /* Légère transparence */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 /* Header */
 header {
-    background-color: #1a73e8;
-    color: white;
-    padding: 20px 0;
+    background-color: #a8e6cf; /* Vert clair */
+    color: #333;
+    padding: 20px;
     text-align: center;
+    border-radius: 10px;
 }
 
 header h1 {
-    font-size: 2.5rem;
+    font-size: 3rem;
     margin-bottom: 10px;
+    font-family: 'Georgia', serif;
 }
 
 header p {
     font-size: 1.2rem;
+    margin-top: 5px;
 }
 
 /* Navigation Bar */
 nav {
+    margin-top: 20px;
     background-color: #333;
     color: white;
     padding: 10px 0;
     text-align: center;
+    border-radius: 10px;
 }
 
 nav ul {
@@ -70,34 +72,33 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #e74c3c;
+    color: #f39c12;
 }
 
-/* Main content area */
+/* Main content */
 main {
-    padding: 40px 0;
-    background-color: #ffffff;
-    border-top: 3px solid #1a73e8;
-    border-bottom: 3px solid #1a73e8;
+    margin: 40px 0;
+    text-align: center;
 }
 
 main h2 {
     font-size: 2rem;
-    color: #333;
+    color: #444;
     margin-bottom: 20px;
 }
 
 main p {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     margin-bottom: 20px;
 }
 
 /* Footer */
 footer {
-    background-color: #333;
+    background-color: #444;
     color: white;
     text-align: center;
     padding: 20px 0;
+    border-radius: 10px;
     margin-top: 40px;
 }
 
@@ -113,5 +114,9 @@ footer p {
 
     nav ul li {
         margin-bottom: 10px;
+    }
+
+    .container {
+        width: 90%;
     }
 }
