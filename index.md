@@ -7,11 +7,6 @@ title: Home
 
 ---
 
-[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
-[Program](./program) | [Publications](./publications) | [Organizers](./organizers) | [Contact](./contact) | [CLEF-2024](https://simpletext-project.com/2024/en/)
-
----
-
 <img align="left" src="https://github.com/simpletext-madics/2021/blob/main/clef/simpletext-logo-blue.png?raw=true" width="100"/>  
 
 ## SimpleText: Automatic Simplification of Scientific Texts
