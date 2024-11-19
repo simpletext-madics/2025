@@ -83,8 +83,10 @@ header {
     background: linear-gradient(to top, #373737, #212121); /* Standard */
     padding: 50px;
     text-align: center;
-    border-radius: 10px;
     color: white; /* Assure une bonne lisibilité */
+    margin: 0; /* Supprime tout espace extérieur */
+    border-radius: 0; /* Supprime les arrondis */
+    border: none; /* Supprime d'éventuelles bordures */
 }
 
 header h1 {
