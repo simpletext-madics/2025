@@ -74,16 +74,17 @@ section {
 }
 
 /* Header */
-header_wrap {
-    background: #212121;
-    background: -moz-linear-gradient(top, #373737, #212121);
-    background: -webkit-linear-gradient(top, #373737, #212121);
-    background: -ms-linear-gradient(top, #373737, #212121);
-    background: -o-linear-gradient(top, #373737, #212121);
-    background: linear-gradient(to top, #373737, #212121)
+header {
+    background: #212121; /* Fallback pour les navigateurs anciens */
+    background: -moz-linear-gradient(top, #373737, #212121); /* Pour Firefox */
+    background: -webkit-linear-gradient(top, #373737, #212121); /* Pour Chrome et Safari */
+    background: -ms-linear-gradient(top, #373737, #212121); /* Pour Internet Explorer/Edge */
+    background: -o-linear-gradient(top, #373737, #212121); /* Pour Opera */
+    background: linear-gradient(to top, #373737, #212121); /* Standard */
     padding: 50px;
     text-align: center;
     border-radius: 10px;
+    color: white; /* Assure une bonne lisibilité */
 }
 
 header h1 {
