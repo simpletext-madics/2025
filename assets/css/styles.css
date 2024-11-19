@@ -101,41 +101,45 @@ header p {
 
 /* Navigation Bar */
 nav {
-position: fixed;
-top: 0;
-width: 100%;
-z-index: 1000;
-transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
 nav ul {
-list-style: none;
-display: flex;
-justify-content: center;
-padding: 15px 0;
-background-color: transparent; /* Transparent initialement */
-color: white;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+    background-color: transparent; /* Transparent initialement */
+    color: white;
 }
 
 nav ul li {
-margin: 0 15px;
+    margin: 0 15px;
 }
 
 nav ul li a {
-font-weight: bold;
-color: white;
-font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    font-size: 1rem;
 }
 
 nav ul li a:hover {
-color: #f39c12;
+    color: #f39c12;
 }
 
 /* Active when scrolling */
 nav.scrolled {
-background-color: rgba(168, 230, 207, 0.9); /* Vert clair transparent */
-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-color: #333;
+    background-color: rgba(55, 55, 55, 0.9); /* Gris foncé transparent en cohérence avec le header */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Légère ombre pour effet flottant */
+    color: #fff; /* Garde le texte blanc pour contraste */
+}
+
+nav.scrolled ul li a {
+    color: #fff; /* Assure que le texte reste bien visible */
 }
 
 /* Main content */
