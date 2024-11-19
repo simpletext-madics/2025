@@ -155,13 +155,23 @@ main p {
     margin-bottom: 20px;
 }
 
-/*Footer*/
-#footer_wrap {
-    background: #212121
+/* Footer */
+footer {
+background-color: #444;
+color: white;
+text-align: center;
+padding: 20px 0;
+border-radius: 10px;
+margin-top: 40px;
 }
-
 
 footer p {
-    color: #f2f2f2
+font-size: 1rem;
 }
 
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+nav ul {
+flex-direction: column;
+}
+    
