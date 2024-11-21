@@ -7,15 +7,14 @@ title: Important dates
 
 ---
 
-* **13 November 2023**: Registration opens
-* **22 April 2024**: Registration closes
-* **6 May 2024**: End of Evaluation Cycle [submission of runs]
-* **31 May 2024**: Submission of Participant Papers [CEUR-WS]
-* **31 May–21 June 2024**: Review process of participant papers
-* **10 June 2024**: Submission of Condensed Lab Overviews [LNCS]
-* **17 June 2024**: Notification of Acceptance for Condensed Lab Overviews [LNCS]
-* **21 June 2024**: Camera Ready Copy of Condensed Lab Overviews [LNCS] due
-* **24 June 2024**: Notification of Acceptance for Participant Papers [CEUR-WS]
-* **8 July 2024**: Camera Ready Copy of Participant Papers and Extended Lab Overviews [CEUR-WS] due
-* **22-26 July 2024**: CEUR-WS Working Notes Preview for Checking by Authors and Lab Organizers
-* **9-12 September 2024**: Conference in Grenoble, France
+* **18 November 2025**: Registration opens
+* **25 April 2025**: Registration closes
+* **10 May 2025**: End of Evaluation Cycle [submission of runs]
+* **30 May 2025**: Submission of Participant Papers [CEUR-WS]
+* **30 May–27 June 2025**: Review process of participant papers
+* **9 June 2025**: Submission of Condensed Lab Overviews [LNCS]
+* **16 June 2025**: Notification of Acceptance for Condensed Lab Overviews [LNCS]
+* **23 June 2025**: Camera Ready Copy of Condensed Lab Overviews [LNCS] due
+* **27 June 2025:** Notification of Acceptance for Participant Papers [CEUR-WS]
+* **7 July 2025**: Camera Ready Copy of Participant Papers and Extended Lab Overviews [CEUR-WS] due
+* **21-25 July 2025**: CEUR-WS Working Notes Preview for Checking by Authors and Lab Organizers
