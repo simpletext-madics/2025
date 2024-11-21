@@ -18,5 +18,5 @@ title: Contacts
 
 ## 📧 Nous Contacter
 
-Vous avez une question ou une demande ? Écrivez-nous à l'adresse suivante :  
+Any question ? Feel free to contact us here :  
 [contact@simpletext-project.com](mailto:contact@simpletext-project.com)
