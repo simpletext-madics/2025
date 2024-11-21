@@ -20,7 +20,7 @@ The track has the following four concrete tasks.
 - [Task 3](./tasks): SimpleText 2024 Revisited : Selected tasks by popular request.
 
 ## How to participate
-In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php) website. The registration opens on 15th November 2024.
+In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php?page=Pages/registration.html) website. The registration opens on 15th November 2024.
 
 All team members should join the SimpleText mailing list:
 [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 
