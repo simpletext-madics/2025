@@ -7,16 +7,16 @@ title: Contacts
 
 ---
 
-## 🌐 Nos Ressources
+## 🌐 Our ressources
 
-- **Site web** : [simpletext-project.com](http://simpletext-project.com/)
+- **Wessite** : [simpletext-project.com](http://simpletext-project.com/)
 - **Twitter** : [@SimpletextW](https://twitter.com/SimpletextW)
 - **Google Group** : [SimpleText Community](https://groups.google.com/g/simpletext)
 - **CLEF Website** : [CLEF Initiative 2025](https://clef2025.clef-initiative.eu/index.php)
 
 ---
 
-## 📧 Nous Contacter
+## 📧 Contact us
 
-Any question ? Feel free to contact us here :  
+Any question ? Feel free to write us here :  
 [contact@simpletext-project.com](mailto:contact@simpletext-project.com)
