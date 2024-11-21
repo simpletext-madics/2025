@@ -5,7 +5,11 @@ margin: 0;
 padding: 0;
 box-sizing: border-box;
 }
-    
+
+a {
+    color: #a8e6cf;
+    }
+
 /* Global Styles */
 body {
 font-family: "Open Sans", sans-serif;
@@ -102,10 +106,6 @@ font-size: 1.2rem;
 margin-bottom: 20px;
 }
 
-
-a {
-    color: #a8e6cf;
-    }
 
 /* Footer */
 footer {
