@@ -7,7 +7,7 @@ title: Tasks
 
 ---
 ## How to participate
-In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php?page=Pages/registration.html) website: [http://clef2025-labs-registration.dei.unipd.it/](http://clef2024-labs-registration.dei.unipd.it/). 
+In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php?page=Pages/registration.html) website: [https://clef2025-labs-registration.dei.unipd.it/](https://clef2025-labs-registration.dei.unipd.it/). 
 
 All team members should join the SimpleText mailing list:
 [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 
