@@ -7,12 +7,20 @@ title: Contacts
 
 ---
 
-Website: [http://simpletext-project.com/](http://simpletext-project.com/)
+![SimpleText Logo](https://via.placeholder.com/150 "SimpleText Logo")
 
-Twitter: [https://twitter.com/SimpletextW](https://twitter.com/SimpletextW)
+---
 
-Google group: [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext)
+## 🌐 Nos Ressources
 
-CLEF website: [https://clef2024.clef-initiative.eu/index.php](https://clef2025.clef-initiative.eu/index.php) 
- 
-Any question? Feel free to contact us: [contact@simpletext-project.com](mailto:contact@simpletext-project.com)
+- **Site web** : [simpletext-project.com](http://simpletext-project.com/)
+- **Twitter** : [@SimpletextW](https://twitter.com/SimpletextW)
+- **Google Group** : [SimpleText Community](https://groups.google.com/g/simpletext)
+- **CLEF Website** : [CLEF Initiative 2025](https://clef2025.clef-initiative.eu/index.php)
+
+---
+
+## 📧 Nous Contacter
+
+Vous avez une question ou une demande ? Écrivez-nous à l'adresse suivante :  
+[contact@simpletext-project.com](mailto:contact@simpletext-project.com)
