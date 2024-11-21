@@ -6,6 +6,10 @@ padding: 0;
 box-sizing: border-box;
 }
 
+a {
+    color: #7252;
+    }
+    
 /* Global Styles */
 body {
 font-family: "Open Sans", sans-serif;
@@ -15,7 +19,7 @@ color: #444444;
 line-height: 1.6;
 }
 
-/* Centralize content */
+/* Centrlize content */
 .container {
 width: 80%;
 max-width: 1200px;
@@ -93,7 +97,7 @@ text-align: center;
 
 main h2 {
 font-size: 2rem;
-color: #444;
+color: 444;
 margin-bottom: 20px;
 }
 
