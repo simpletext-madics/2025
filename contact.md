@@ -7,10 +7,6 @@ title: Contacts
 
 ---
 
-![SimpleText Logo](https://via.placeholder.com/150 "SimpleText Logo")
-
----
-
 ## 🌐 Nos Ressources
 
 - **Site web** : [simpletext-project.com](http://simpletext-project.com/)
