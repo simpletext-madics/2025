@@ -15,11 +15,13 @@ The general public tends to avoid reliable sources such as scientific literature
 The track has the following four concrete tasks.
  
 ## [Tasks](./tasks)
+
 - [Task 1](./tasks): Text Simplification: Simplify scientific text.
 - [Task 2](./tasks): Controlled Creativity: Identify and avoid hallucination.
 - [Task 3](./tasks): SimpleText 2024 Revisited : Selected tasks by popular request.
 
 ## How to participate
+
 In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php?page=Pages/registration.html) website. The registration opens on 15th November 2024.
 
 All team members should join the SimpleText mailing list:
