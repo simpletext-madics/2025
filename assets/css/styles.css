@@ -96,7 +96,7 @@ main {
 
 main h1 {
     font-size: 3rem;
-    color: #f39c12; /* Couleur différente pour H1 */
+    color: #16A085; /* Couleur différente pour H1 */
     font-family: 'Georgia', serif; /* Police différente pour H1 */
     margin-bottom: 20px;
 }
@@ -110,7 +110,7 @@ main h2 {
 
 main h3 {
     font-size: 1.5rem;
-    color: #16A085; /* Couleur différente pour H3 */
+    color: #f39c12; /* Couleur différente pour H3 */
     font-family: 'Georgia', serif; /* Police différente pour H3 */
     margin-bottom: 20px;
 }
