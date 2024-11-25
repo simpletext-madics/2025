@@ -13,7 +13,7 @@ a {
 /* Global Styles */
 body {
 font-family: "Open Sans", sans-serif;
-background: url('sv5.jpg') no-repeat center fixed; /* Mettre le lien vers votre image */
+background: url('img/sv5.jpg') no-repeat center fixed; /* Mettre le lien vers votre image */
 background-size: cover;
 color: #444444;
 line-height: 1.6;
