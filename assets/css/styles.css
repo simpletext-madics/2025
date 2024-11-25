@@ -97,7 +97,7 @@ main {
 main h1 {
     font-size: 3rem;
     color: #f39c12; /* Couleur différente pour H1 */
-    font-family: 'Arial', sans-serif; /* Police différente pour H1 */
+    font-family: 'Georgia', serif; /* Police différente pour H1 */
     margin-bottom: 20px;
 }
 
