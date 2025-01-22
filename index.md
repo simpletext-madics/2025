@@ -15,7 +15,7 @@ Objective scientific information helps any user navigate a world where misinform
 
 While significant progress has been made in enhancing accessibility through LLMs, challenges like balancing simplicity with accuracy, dense technical terminology, maintaining logical flow, and adapting to varied audiences remain challenging. Moreover, LLMs can unintentionally introduce misinformation, distort meanings, or create content that deviates from the original text.
 
-The main goal of the CLEF 2025 SimpleText track is to advance the field of natural language processing by addressing key challenges in simplifying complex scientific texts, ensuring the reliability and accuracy of generated content, and refining popular tasks from previous editions.
+The main goal of the CLEF 2025 SimpleText track is to advance the field of natural language processing by addressing key challenges in simplifying complex scientific texts, ensuring the reliability and accuracy of generated content, and refining popular tasks from previous editions. To ensure the transition to the new track setup, we will revisit and rerun some of the earlier tasks by popular demand.
  
 ## [Tasks](./tasks)
 
