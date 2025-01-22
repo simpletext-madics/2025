@@ -11,8 +11,11 @@ title: Home
 
 ## Simplify Scientific Text (and Nothing More)
 
-The general public tends to avoid reliable sources such as scientific literature due to their complex language and lacking background knowledge. Instead, they rely on shallow and derived sources on the web and in social media - often published for commercial or political incentives, rather than informational value. Can text simplification help to remove some of these access barriers? The SimpleText track is a part of the CLEF initiative which promotes the systematic evaluation of information access systems, primarily through experimentation on shared tasks. SimpleText addresses the challenges of text simplification approaches in the context of promoting scientific information access, by providing appropriate data and benchmarks. The track uses a corpus of scientific literature abstracts and popular science requests. Our overall use case is to create a simplified summary of multiple scientific documents based on a popular science query which provides a user with an accessible overview of this specific topic.  
-The track has the following four concrete tasks.
+Objective scientific information helps any user navigate a world where misinformation, disinformation, or unfounded generated information is only a single mouse click away. Everyone acknowledges the importance of objective scientific information, but the general public seldom consults scientific sources. For example, biomedical research can directly impact people's decisions about health. However, the most reliable and up-to-date sources in biomedicine contain complex language and assume a high degree of background knowledge, making them difficult for the general public to understand.
+
+While significant progress has been made in enhancing accessibility through LLMs, challenges like balancing simplicity with accuracy, dense technical terminology, maintaining logical flow, and adapting to varied audiences remain challenging. Moreover, LLMs can unintentionally introduce misinformation, distort meanings, or create content that deviates from the original text.
+
+The main goal of the CLEF 2025 SimpleText track is to advance the field of natural language processing by addressing key challenges in simplifying complex scientific texts, ensuring the reliability and accuracy of generated content, and refining popular tasks from previous editions.
  
 ## [Tasks](./tasks)
 
