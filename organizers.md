@@ -19,6 +19,10 @@ title: Organizers
 [Liana Ermakova](https://nouveau.univ-brest.fr/hcti/fr/membre/liana-ermakova), Université de Bretagne Occidentale, HCTI, France
 
 ### Task 2 (Identifying and explaining difficult concepts) chairs
+[Giorgio Maria Di Nunzio](https://scholar.google.fr/citations?user=Awl_HDoAAAAJ&hl=no), University of Padua, Italy
+[Frederica Vezzani](https://www.dei.unipd.it/~vezzanif/), University of Padua, Italy
+[Vanderlei Bonato](https://scholar.google.com.br/citations?user=zpk7tC0AAAAJ&hl=en), University of Sao Paulo, Brazil
+[Hosein Azarbonyad](https://scholar.google.com/citations?user=JHL38zQAAAAJ&hl=en), Elsevier, The Netherlands
 
 [Jaap Kamps](https://e.humanities.uva.nl/), University of Amsterdam, The Netherlands
 
