@@ -13,12 +13,16 @@ title: Organizers
 [Liana Ermakova](https://nouveau.univ-brest.fr/hcti/fr/membre/liana-ermakova), Université de Bretagne Occidentale, HCTI, France
 
 ### Task 1 (Retrieving passages to include in a simplified summary) chairs
+[Eric SanJuan](https://termwatch.es/), Avignon Université, LIA, France
 
 [Jaap Kamps](https://e.humanities.uva.nl/), University of Amsterdam, The Netherlands
 
 [Liana Ermakova](https://nouveau.univ-brest.fr/hcti/fr/membre/liana-ermakova), Université de Bretagne Occidentale, HCTI, France
 
+[Stéphane Huet](https://cv.hal.science/shuet) Avignon Université, LIA, France
+
 ### Task 2 (Identifying and explaining difficult concepts) chairs
+
 [Giorgio Maria Di Nunzio](https://scholar.google.fr/citations?user=Awl_HDoAAAAJ&hl=no), University of Padua, Italy
 [Frederica Vezzani](https://www.dei.unipd.it/~vezzanif/), University of Padua, Italy
 [Vanderlei Bonato](https://scholar.google.com.br/citations?user=zpk7tC0AAAAJ&hl=en), University of Sao Paulo, Brazil
@@ -30,7 +34,11 @@ title: Organizers
 
 ### Task 3 (Simplify Scientific Text) chairs
 
+[Laimé, V.]
+
 [Liana Ermakova](https://nouveau.univ-brest.fr/hcti/fr/membre/liana-ermakova), Université de Bretagne Occidentale, HCTI, France
+
+[Helen McCombie](https://www.linkedin.com/in/helen-mccombie-a7a2176a/?originalSubdomain=fr), Université de Bretagne Occidentale, France
 
 [Jaap Kamps](https://e.humanities.uva.nl/), University of Amsterdam, The Netherlands
 
