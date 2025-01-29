@@ -32,6 +32,7 @@ title: Organizers
 
 ## Other organizers and partners
 
-* [Jan Bakker](https://www.researchgate.net/profile/Jan-Bakker-2), University of Amsterdam, The Netherlands
 * [Benjamin Vendeville](https://www.linkedin.com/in/benjamin-vendeville/?originalSubdomain=fr), University of Western Brittany, France
+* [Jan Bakker](https://www.researchgate.net/profile/Jan-Bakker-2), University of Amsterdam, The Netherlands
+* [Jaap Kamps](https://orcid.org/0000-0002-6614-0087), University of Amsterdam, The Netherlands
 
