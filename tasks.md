@@ -29,7 +29,7 @@ This task remains the core NLP challenge of the track, divided into:
 <br>The introduction of Cochrane-auto and the focus on the biomedical domain highlight the task's main innovation. Additionally, discussions are ongoing to introduce a third subtask on text alignment, where related abstracts (e.g., source and reference or source and predictions) are aligned at the sentence level. This involves n-to-n alignments, including sentence splits and merges, which are pivotal for downstream tasks like Task 2.
 
 ### Data
-<br>The task uses the newly constructed Cochrane-auto corpus, consisting of large-scale realigned abstracts and lay summaries. Data is aligned at multiple levels:
+The task uses the newly constructed Cochrane-auto corpus, consisting of large-scale realigned abstracts and lay summaries. Data is aligned at multiple levels:
 
 <br>**Sentence-level:** Simplification and realignment of individual sentences.
 <br>**Paragraph-level:** Matching simplified and source paragraphs.
