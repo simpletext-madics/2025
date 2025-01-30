@@ -57,7 +57,7 @@ The SimpleText track has collected a vast dataset of realistic and representativ
 
 ### Evaluation
 
-<br>**Task 2.1** will evaluate sentence labels using standard metrics like Precision, Recall, and F1, as well as token-level measures such as Jaccard similarity.
+**Task 2.1** will evaluate sentence labels using standard metrics like Precision, Recall, and F1, as well as token-level measures such as Jaccard similarity.
 <br>**Task 2.2** will be assessed via automatic classification measures, categorizing distortion types.
 <br>**Task 2.3** involves both automatic and human evaluation, examining sentence- and phrase-level differences with tools like MT Unbabel.
 <br>Additionally, paired submissions will allow efficient evaluation of grounded generation. This task is being coordinated with other CLEF tracks, such as Eloquent and JOKER, and related events like SemEval (e.g., SHROOM and Mu-SHROOM), with the goal of potential joint tasks in the future.
