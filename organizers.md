@@ -12,7 +12,7 @@ title: Organizers
 ### General chair
 [Liana Ermakova](https://nouveau.univ-brest.fr/hcti/fr/membre/liana-ermakova), Université de Bretagne Occidentale, HCTI, France
 
-### Task 1 (Retrieving passages to include in a simplified summary) chairs
+### Task 1 (Text Simplification (simplify scientific text)) chairs
 [Eric SanJuan](https://termwatch.es/), Avignon Université, LIA, France
 
 [Jaap Kamps](https://e.humanities.uva.nl/), University of Amsterdam, The Netherlands
@@ -21,7 +21,7 @@ title: Organizers
 
 [Stéphane Huet](https://cv.hal.science/shuet) Avignon Université, LIA, France
 
-### Task 2 (Identifying and explaining difficult concepts) chairs
+### Task 2 (Identification and avoidance of hallucination) chairs
 
 [Giorgio Maria Di Nunzio](https://scholar.google.fr/citations?user=Awl_HDoAAAAJ&hl=no), University of Padua, Italy
 
@@ -35,7 +35,7 @@ title: Organizers
 
 [Liana Ermakova](https://nouveau.univ-brest.fr/hcti/fr/membre/liana-ermakova), Université de Bretagne Occidentale, HCTI, France
 
-### Task 3 (Simplify Scientific Text) chairs
+### Task 3 (SimpleText 2024 Revisited) chairs
 
 [Laimé, V.]
 
