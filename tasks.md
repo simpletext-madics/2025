@@ -23,9 +23,7 @@ Cochrane-auto provides authentic parallel data produced by the same authors, ena
 <br>One of the key benefits of Cochrane-auto is its contribution to reducing the manual effort for translation students and professionals. Instead of manually simplifying texts, they can focus on analyzing and annotating the evaluation data for types of information distortion, which in turn provides ground truth for other tasks.
 
 ### Descrption : 
-This is the core NLP task of the track, and we continue with both :
-- Sentence-level.
-- Document-level scientific text simplification.
+This is the core NLP task of the track, and we continue with both : Sentence-level and document-level scientific text simplification.
 
 The main innovation is the very large new corpus we constructed in 2024, and the shift to the biomedical domain. We are discussing a third text alignment subtask, where two relate abstracts (either source and reference, or source and predictions) need to be aligned at the sentence level, with possible n-to-n alignments (sentence splits or merges). Text alignment is a popular NLP task and key to CLEF 2025 SimpleText Task 2 below.
 
