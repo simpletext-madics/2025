@@ -91,7 +91,7 @@ color: #333;
 /* Main content */
 main {
     margin: 80px 0; /* Pour éviter le chevauchement avec la nav */
-    text-align: center;
+    text-align: left;
 }
 
 main h1 {
