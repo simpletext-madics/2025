@@ -23,10 +23,11 @@ Cochrane-auto provides authentic parallel data produced by the same authors, ena
 <br>One of the key benefits of Cochrane-auto is its contribution to reducing the manual effort for translation students and professionals. Instead of manually simplifying texts, they can focus on analyzing and annotating the evaluation data for types of information distortion, which in turn provides ground truth for other tasks.
 
 ### Descrption : 
-This task remains the core NLP challenge of the track, divided into:
-**Task 1.1:** Sentence-level simplification.
-<br>**Task 1.2:** Document-level simplification.
-<br>The introduction of Cochrane-auto and the focus on the biomedical domain highlight the task's main innovation. Additionally, discussions are ongoing to introduce a third subtask on text alignment, where related abstracts (e.g., source and reference or source and predictions) are aligned at the sentence level. This involves n-to-n alignments, including sentence splits and merges, which are pivotal for downstream tasks like Task 2.
+This is the core NLP task of the track, and we continue with both :
+- Sentence-level.
+- Document-level scientific text simplification.
+
+The main innovation is the very large new corpus we constructed in 2024, and the shift to the biomedical domain. We are discussing a third text alignment subtask, where two relate abstracts (either source and reference, or source and predictions) need to be aligned at the sentence level, with possible n-to-n alignments (sentence splits or merges). Text alignment is a popular NLP task and key to CLEF 2025 SimpleText Task 2 below.
 
 ### Data
 The task uses the newly constructed Cochrane-auto corpus, consisting of large-scale realigned abstracts and lay summaries. Data is aligned at multiple levels:
@@ -41,35 +42,40 @@ Evaluation for the task includes both automatic and human assessment:
 <br>**Automatic Measures:** SARI, BLEU, LENS, BERTscore, among others.
 <br>**Human Evaluation:** Translation students and professionals will assess selected samples for quality, fidelity, and types of information distortion.
 
-## Task 2: Identification and avoidance of hallucination
-
-This focuses on identifying creative text generation while avoiding spurious or hallucinatory content. This task was introduced after observing substantial over-generation in the outputs from previous participants in the SimpleText track. For 2024, 47% of submissions contained spurious sentences in at least 10% of their inputs, while 19% had hallucinations in 50% or more of their input sentences. The setup includes aligned sources, predictions, and references, enabling an analysis of source attribution, creative variation, and information distortion.
-
-### Data
-
-The SimpleText track has collected a vast dataset of realistic and representative outputs over the past three years.
-
-<br>**For Task 2.1**, we will use outputs from models known for spurious generation, providing data to identify sentences fully grounded in the source input. This includes cases both with and without access to the source.
-<br>**For Task 2.2**, we will utilize manually annotated sentences that exhibit types of information distortion, along with synthetic data to enhance coverage.
-<br>**Task 2.3** follows the paired submission format used in Task 1, focusing on text alignment and grounded generation.
-<br>All datasets include realigned sentences and predictions categorized by types of distortion, forming a comprehensive resource for training and evaluation.
-
-
-### Evaluation
-
-**Task 2.1** will evaluate sentence labels using standard metrics like Precision, Recall, and F1, as well as token-level measures such as Jaccard similarity.
-<br>**Task 2.2** will be assessed via automatic classification measures, categorizing distortion types.
-<br>**Task 2.3** involves both automatic and human evaluation, examining sentence- and phrase-level differences with tools like MT Unbabel.
-<br>Additionally, paired submissions will allow efficient evaluation of grounded generation. This task is being coordinated with other CLEF tracks, such as Eloquent and JOKER, and related events like SemEval (e.g., SHROOM and Mu-SHROOM), with the goal of potential joint tasks in the future.
-
-## Task 3: SimpleText 2024 Revisited
-
-CLEF 2025 introduces a restructured SimpleText track, aimed at adapting to new objectives and participant interests. Task 4 serves as a transitional track, potentially continuing work from CLEF 2024 tasks based on demand. Specifically, it considers re-running Task 1 on Content Selection (abstract retrieval) and Task 2 on Complexity Spotting (identifying and explaining difficult concepts), and Task 4 on State of the Art (information extraction in scientific documents). The continuation of these tracks is contingent on active interest and input from participants and organizers, with discussions planned at the CLEF 2024 conference in Grenoble.
+## Task 2: Controlled Creativity
 
 ### Description
 
-CLEF 2025 SimpleText is very different from the earlier years. In order to facilitate the transition to the new track setup, we consider continuing some of the other CLEF 2024 SimpleText tasks (Task 1 on Content Selection: abstract retrieval, Task 2 on Complexity Spotting: identifying and explaining difficult concepts, Task 4 on SotA: tracking the state-of-the-art in scholarly publications). We will only continue those activities by request of, and with sufficient interest from, our active participants. 
+Task 2 focuses on identifying and evaluating creative generation and information distortion in text simplification.
+
+- **Task 2.1** aims to detect creative generation at the abstract or document level. Participants will analyze system outputs from previous years, along with deliberately generated outputs from known models. The goal is to identify which sentences are fully grounded in the source text, both without access to the original sentences and with access to them. Additionally, sentences that introduce significant new content must be labeled. This task serves as a post-hoc identification or explanation challenge.
+- **Task 2.2** focuses on detecting information distortion in simplified sentences and classifying the types of errors.
+- **Task 2.3 (under discussion)** introduces a text alignment challenge, emphasizing grounded generation over creative generation. This task mirrors Task 1 on text simplification and requires submissions in paired runs, both with and without explicit source attribution.
+
+### Data
+
+Over the past three years of running the SimpleText track, we have compiled a comprehensive dataset of realistic and representative system outputs.
+
+- **For Task 2.1**, we will select predictions prone to spurious generation, using large-scale realigned sentence data that lacks clear support in the source text. These will serve as training data.
+- **For Task 2.2**, we have manually annotated automatically simplified sentences from previous SimpleText participants, classifying them by types of information distortion. This dataset will now be expanded with synthetic data.
+- **Task 2.3** follows the setup of Task 1, requiring paired submissions to compare outputs with and without source attribution.
+
+### Evaluation
+
+- **Task 2.1** will be evaluated as a sentence classification task using standard Precision, Recall, and F1 scores. Token-level evaluation will be measured using Jaccard similarity.
+- **Task 2.2** will be assessed with standard automatic classification metrics.
+- **Task 2.3$$ will combine automatic evaluation with human assessment, similar to Task 1 on Text Simplification. Paired runs will allow efficient sentence- and phrase-level comparisons using tools such as MT Unbabel.
+
+## Task 3: SimpleText 2024 Revisited
+
+### Description
+
+The CLEF 2025 SimpleText track introduces significant changes compared to previous years. To support the transition, we are considering continuing selected activities from the CLEF 2024 SimpleText tasks, including:
+
+- **Task 1: Content Selection** – Retrieving relevant passages to include in a simplified summary.
+- **Task 2: Complexity Spotting** – Identifying complex passages that require simplification.
+- **Task 4: State-of-the-Art Tracking** – Monitoring advancements in scholarly publications related to text simplification.
+These activities will only continue if there is sufficient interest from participants. Discussions are ongoing, and we are exploring hosting selected tasks on CodaBench.
 
 ### Data and evaluation
-
 For further reference on methodology and evaluation criteria, details are available in the LNCS track overview paper by Ermakova et al. (2024b), as well as in the CEUR task overview papers for CLEF 2024 SimpleText Task 1 (Sanjuan et al., 2024), Task 2 (Di Nunzio et al., 2024), and Task 4 (D’Souza et al., 2024).  We aim to set up leaderboards for these tasks at Codalabs.
