@@ -22,7 +22,7 @@ Cochrane-auto provides authentic parallel data produced by the same authors, ena
 
 <br>One of the key benefits of Cochrane-auto is its contribution to reducing the manual effort for translation students and professionals. Instead of manually simplifying texts, they can focus on analyzing and annotating the evaluation data for types of information distortion, which in turn provides ground truth for other tasks.
 
-### Descrption : 
+### Description: 
 This is the core NLP task of the track, and we continue with both : Sentence-level and document-level scientific text simplification.
 
 The main innovation is the very large new corpus we constructed in 2024, and the shift to the biomedical domain. We are discussing a third text alignment subtask, where two relate abstracts (either source and reference, or source and predictions) need to be aligned at the sentence level, with possible n-to-n alignments (sentence splits or merges). Text alignment is a popular NLP task and key to CLEF 2025 SimpleText Task 2 below.
@@ -62,7 +62,7 @@ Over the past three years of running the SimpleText track, we have compiled a co
 
 - **Task 2.1** will be evaluated as a sentence classification task using standard Precision, Recall, and F1 scores. Token-level evaluation will be measured using Jaccard similarity.
 - **Task 2.2** will be assessed with standard automatic classification metrics.
-- **Task 2.3$$ will combine automatic evaluation with human assessment, similar to Task 1 on Text Simplification. Paired runs will allow efficient sentence- and phrase-level comparisons using tools such as MT Unbabel.
+- **Task 2.3** will combine automatic evaluation with human assessment, similar to Task 1 on Text Simplification. Paired runs will allow efficient sentence- and phrase-level comparisons using tools such as MT Unbabel.
 
 ## Task 3: SimpleText 2024 Revisited
 
@@ -73,7 +73,7 @@ The CLEF 2025 SimpleText track introduces significant changes compared to previo
 - **Task 1: Content Selection** – Retrieving relevant passages to include in a simplified summary.
 - **Task 2: Complexity Spotting** – Identifying complex passages that require simplification.
 - **Task 4: State-of-the-Art Tracking** – Monitoring advancements in scholarly publications related to text simplification.
-These activities will only continue if there is sufficient interest from participants. Discussions are ongoing, and we are exploring hosting selected tasks on CodaBench.
+These activities will only continue if participants show sufficient interest. Discussions are ongoing, and we are exploring hosting selected tasks on CodaBench.
 
 ### Data and evaluation
 For further reference on methodology and evaluation criteria, details are available in the LNCS track overview paper by Ermakova et al. (2024b), as well as in the CEUR task overview papers for CLEF 2024 SimpleText Task 1 (Sanjuan et al., 2024), Task 2 (Di Nunzio et al., 2024), and Task 4 (D’Souza et al., 2024).  We aim to set up leaderboards for these tasks at Codalabs.
