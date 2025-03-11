@@ -12,7 +12,7 @@ title: Organizers
 ### General chair
 [Liana Ermakova](https://nouveau.univ-brest.fr/hcti/fr/membre/liana-ermakova), Université de Bretagne Occidentale, HCTI, France
 
-### Task 1 (Text Simplification (simplify scientific text)) chairs
+### Task 1 (Text Simplification) chairs
 [Eric SanJuan](https://termwatch.es/), Avignon Université, LIA, France
 
 [Jaap Kamps](https://e.humanities.uva.nl/), University of Amsterdam, The Netherlands
@@ -21,7 +21,7 @@ title: Organizers
 
 [Stéphane Huet](https://cv.hal.science/shuet) Avignon Université, LIA, France
 
-### Task 2 (Identification and avoidance of hallucination) chairs
+### Task 2 (Controlled Creativity) chairs
 
 [Giorgio Maria Di Nunzio](https://scholar.google.fr/citations?user=Awl_HDoAAAAJ&hl=no), University of Padua, Italy
 
@@ -37,8 +37,6 @@ title: Organizers
 
 ### Task 3 (SimpleText 2024 Revisited) chairs
 
-[Laimé, V.]
-
 [Liana Ermakova](https://nouveau.univ-brest.fr/hcti/fr/membre/liana-ermakova), Université de Bretagne Occidentale, HCTI, France
 
 [Helen McCombie](https://www.linkedin.com/in/helen-mccombie-a7a2176a/?originalSubdomain=fr), Université de Bretagne Occidentale, France
@@ -49,5 +47,3 @@ title: Organizers
 
 * [Benjamin Vendeville](https://www.linkedin.com/in/benjamin-vendeville/?originalSubdomain=fr), University of Western Brittany, France
 * [Jan Bakker](https://www.researchgate.net/profile/Jan-Bakker-2), University of Amsterdam, The Netherlands
-* [Jaap Kamps](https://e.humanities.uva.nl/), University of Amsterdam, The Netherlands
-
