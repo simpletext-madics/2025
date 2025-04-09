@@ -12,9 +12,6 @@ title: Important dates
 * **10 May 2025**: End of Evaluation Cycle [submission of runs]
 * **30 May 2025**: Submission of Participant Papers [CEUR-WS]
 * **30 May–27 June 2025**: Review process of participant papers
-* **9 June 2025**: Submission of Condensed Lab Overviews [LNCS]
-* **16 June 2025**: Notification of Acceptance for Condensed Lab Overviews [LNCS]
-* **23 June 2025**: Camera Ready Copy of Condensed Lab Overviews [LNCS] due
 * **27 June 2025:** Notification of Acceptance for Participant Papers [CEUR-WS]
-* **7 July 2025**: Camera Ready Copy of Participant Papers and Extended Lab Overviews [CEUR-WS] due
+* **7 July 2025**: Camera Ready Copy of Participant Papers
 * **21-25 July 2025**: CEUR-WS Working Notes Preview for Checking by Authors and Lab Organizers
