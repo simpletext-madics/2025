@@ -3,6 +3,35 @@ layout: default
 title: Tasks
 ---
 
+# Tasks
+
+## How to participate
+In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php?page=Pages/registration.html) website: [https://clef2025-labs-registration.dei.unipd.it/](https://clef2025-labs-registration.dei.unipd.it/). 
+
+All team members should join the SimpleText mailing list:
+[https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 
+
+The data will be made available to all registered participants.
+
+## Task 1: Text Simplification: Simplify scientific text
+
+### Task 1.1 - Sentence-level Scientific Text Simplification
+
+### Task 1.2 - Document-level Scientific Text Simplification 
+
+## Task 2: Controlled Creativity: Identify and Avoid Hallucination
+
+### Task 2.1 - Identify Creative Generation at Document Level
+
+### Task 2.2 - Detect and Classify Information Distortion Errors in Simplified Sentences
+
+### Task 2.3 - Avoid Creative Generation and Perform Grounded Generation by Design
+
+## Task 3: SimpleText 2024 Revisited: Selected tasks by popular request
+  - Search: content selection
+  - Complex terminology analysis
+  - Complexities in evaluating generated definitions/explanations
+<!--
 # CLEF 2025 SimpleText: Tasks
 
 ---
@@ -77,3 +106,4 @@ These activities will only continue if participants show sufficient interest. Di
 
 ### Data and evaluation
 For further reference on methodology and evaluation criteria, details are available in the LNCS track overview paper by Ermakova et al. (2024b), as well as in the CEUR task overview papers for CLEF 2024 SimpleText Task 1 (Sanjuan et al., 2024), Task 2 (Di Nunzio et al., 2024), and Task 4 (D’Souza et al., 2024).  We aim to set up leaderboards for these tasks at Codalabs.
+-->
