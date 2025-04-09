@@ -34,7 +34,7 @@ The main goal of the CLEF 2025 SimpleText track is to advance the field of natur
 
 ## How to participate
 
-In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php?page=Pages/registration.html) website. The registration opens on 15th November 2024.
+In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php?page=Pages/registration.html) website. The registration closes on April 25, 2025.
 
 All team members should join the SimpleText mailing list:
 [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 
