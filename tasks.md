@@ -18,13 +18,16 @@ The CLEF 2025 SimpleText track introduced the Cochrane-auto corpus, derived from
 
 Cochrane-auto provides authentic parallel data produced by the same authors, enabling true document-level simplification. It incorporates advanced simplification techniques such as sentence merging, reordering, and alignment with discourse structure. This approach contrasts with more standard simplification corpora by realigning data at the paragraph, sentence, and document levels.
 
-<br>One of the key benefits of Cochrane-auto is its contribution to reducing the manual effort for translation students and professionals. Instead of manually simplifying texts, they can focus on analyzing and annotating the evaluation data for types of information distortion, which in turn provides ground truth for other tasks.
+Fro that we extract two subtasks:
 
 ### Task 1.1 - Sentence-level Scientific Text Simplification
 The goal of this task is to simplify whole sentences extracted from the Cochrane-auto dataset
 
 ### Task 1.2 - Document-level Scientific Text Simplification 
 The goal of this task is to simplify whole documents extracted from the Cochrane-auto dataset
+
+### Evaluation
+To evaluate results we will use standard automatic evaluation measures (SARI, BLEU, LENS, BERTscore, etc.) in combination with human assessment of samples of the submissions by translation students and professionals.
 
 ## Task 2: Controlled Creativity: Identify and Avoid Hallucination
 
@@ -41,6 +44,11 @@ This task focuses on detecting information distortion in simplified sentences an
 ### Task 2.3 - Avoid Creative Generation and Perform Grounded Generation by Design
 
 This task introduces a text alignment challenge, emphasizing grounded generation over creative generation. This task mirrors Task 1 on text simplification and requires submissions in paired runs, both with and without explicit source attribution.
+
+### Evaluation
+ - Task 2.1 is essentially a sentence label task, evaluated in the standard way (Precision, Recall, F1). For token-level evaluation, we use standard Jaccard.
+ - Task 2.2 is evaluated using standard automatic classification measures. 
+ - Task 2.3 will be evaluated by both standard automatic measures and human evaluation, similar to Task 1 on Text Simplification above. The paired runs enable us to sample  differences at the sentence and phrase levels and evaluate them efficiently, using tools like MT Unbabel.
 
 ## Task 3: SimpleText 2024 Revisited: Selected tasks by popular request
 
