@@ -3,19 +3,16 @@ layout: default
 title: Organizers
 ---
 
-# CLEF 2025 SimpleText: Organizers
+# Organizers
 
----
-
-## Chairs
-
-### General chair
 [Liana Ermakova](https://nouveau.univ-brest.fr/hcti/fr/membre/liana-ermakova), Université de Bretagne Occidentale, HCTI, France
 
-### Task 1 (Text Simplification) chairs
+[Jaap Kamps](https://e.humanities.uva.nl/), University of Amsterdam, The Netherlands
+
+<!--### Task 1 (Text Simplification) chairs
 [Eric SanJuan](https://termwatch.es/), Avignon Université, LIA, France
 
-[Jaap Kamps](https://e.humanities.uva.nl/), University of Amsterdam, The Netherlands
+
 
 [Liana Ermakova](https://nouveau.univ-brest.fr/hcti/fr/membre/liana-ermakova), Université de Bretagne Occidentale, HCTI, France
 
@@ -28,10 +25,11 @@ title: Organizers
 [Frederica Vezzani](https://www.dei.unipd.it/~vezzanif/), University of Padua, Italy
 
 [Vanderlei Bonato](https://scholar.google.com.br/citations?user=zpk7tC0AAAAJ&hl=en), University of Sao Paulo, Brazil
+-->
 
 [Hosein Azarbonyad](https://scholar.google.com/citations?user=JHL38zQAAAAJ&hl=en), Elsevier, The Netherlands
 
-[Jaap Kamps](https://e.humanities.uva.nl/), University of Amsterdam, The Netherlands
+<!--[Jaap Kamps](https://e.humanities.uva.nl/), University of Amsterdam, The Netherlands
 
 [Liana Ermakova](https://nouveau.univ-brest.fr/hcti/fr/membre/liana-ermakova), Université de Bretagne Occidentale, HCTI, France
 
@@ -44,6 +42,8 @@ title: Organizers
 [Jaap Kamps](https://e.humanities.uva.nl/), University of Amsterdam, The Netherlands
 
 ## Other organizers and partners
+-->
 
-* [Benjamin Vendeville](https://www.linkedin.com/in/benjamin-vendeville/?originalSubdomain=fr), University of Western Brittany, France
-* [Jan Bakker](https://www.researchgate.net/profile/Jan-Bakker-2), University of Amsterdam, The Netherlands
+[Benjamin Vendeville](https://www.linkedin.com/in/benjamin-vendeville/?originalSubdomain=fr), University of Western Brittany, France
+
+[Jan Bakker](https://www.researchgate.net/profile/Jan-Bakker-2), University of Amsterdam, The Netherlands
