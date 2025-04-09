@@ -22,7 +22,7 @@ The main goal of the CLEF 2025 SimpleText track is to advance the field of natur
 - [Task 1](./tasks): Text Simplification: Simplify scientific text
   - Task 1.1 - Sentence-level Scientific Text Simplification
   - Task 1.2 - Document-level Scientific Text Simplification 
-- [Task 2](./tasks): Controlled Creativity: Identify and avoid hallucination
+- [Task 2](./tasks): Controlled Creativity: Identify and Avoid Hallucination
   - Task 2.1 - Identify Creative Generation at Document Level
   - Task 2.2 - Detect and Classify Information Distortion Errors in Simplified Sentences
   - Task 2.3 - Avoid Creative Generation and Perform Grounded Generation by Design
