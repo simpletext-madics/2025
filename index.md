@@ -47,6 +47,8 @@ SimpleText is supported by the French research network on Big Data - Data Scienc
 
 ## References  
 
+* Ermakova, L., Azarbonyad, H., Bakker, J., Vendeville, B., Kamps, J. (2025). CLEF 2025 SimpleText Track. In: Hauff, C., et al. Advances in Information Retrieval. ECIR 2025. Lecture Notes in Computer Science, vol 15576. Springer, Cham. [https://doi.org/10.1007/978-3-031-88720-8_63](https://doi.org/10.1007/978-3-031-88720-8_63)
+<!--
 * L. Ermakova, E. SanJuan, S. Huet, H. Azarbonyad, G. M. Di Nunzio, F. Vezzani, J. D’Souza, J. Kamps,
 _Overview of the CLEF 2024 SimpleText track: Improving access to scientific texts for everyone_, in:
 Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](https://doi.org/10.1007/978-3-031-71908-0_13)).
@@ -66,7 +68,7 @@ _Overview of the CLEF 2024 SimpleText Task 3: Simplify Scientific Text_, 3147-31
 * Jennifer D'Souza, Salomon Kabongo, Hamed Babaei Giglou, Yue Zhang
 _Overview of the CLEF 2024 SimpleText Task 4: SOTA? Tracking the State-of-the-Art in Scholarly Publications_, 3163-3173
 ([Paper](https://ceur-ws.org/Vol-3740/paper-308.pdf)).
-
+-->
 ---
 
 
