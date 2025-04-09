@@ -25,7 +25,7 @@ Cochrane-auto provides authentic parallel data produced by the same authors, ena
 ### Description: 
 This is the core NLP task of the track, and we continue with both : Sentence-level and document-level scientific text simplification.
 
-The main innovation is the very large new corpus we constructed in 2024, and the shift to the biomedical domain. We are discussing a third text alignment subtask, where two relate abstracts (either source and reference, or source and predictions) need to be aligned at the sentence level, with possible n-to-n alignments (sentence splits or merges). Text alignment is a popular NLP task and key to CLEF 2025 SimpleText Task 2 below.
+The main innovation is the very large new corpus we constructed in 2024, and the shift to the biomedical domain. We are discussing a third text alignment subtask, where two related abstracts (either source and reference, or source and predictions) need to be aligned at the sentence level, with possible n-to-n alignments (sentence splits or merges). Text alignment is a popular NLP task and key to CLEF 2025 SimpleText Task 2 below.
 
 ### Data
 The task uses the newly constructed Cochrane-auto corpus, consisting of large-scale realigned abstracts and lay summaries. Data is aligned at multiple levels:
