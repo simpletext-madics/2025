@@ -46,4 +46,4 @@ title: Organizers
 
 [Benjamin Vendeville](https://www.linkedin.com/in/benjamin-vendeville/?originalSubdomain=fr), University of Western Brittany, France
 
-[Jan Bakker](https://www.researchgate.net/profile/Jan-Bakker-2), University of Amsterdam, The Netherlands
+[Jan Bakker](https://www.illc.uva.nl/People/Table/person/5737/Jan-Bakker), University of Amsterdam, The Netherlands
