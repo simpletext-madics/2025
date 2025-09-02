@@ -89,9 +89,7 @@ _AIIRLab Systems for CLEF 2025 SimpleText: Cross-Encoders to Avoid Spurious Gene
 
 * XXX
 
-* XXX
-
-* XXX
+* (Time for additional talks, depending on demand, from the SimpleText track.)
 
 * **15:15 - 15:45** SimpleText 2026 planning session:
     * We want to hear from *you*!
