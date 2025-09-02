@@ -53,9 +53,17 @@ _Overview of the CLEF 2025 SimpleText Task 2: Identify and Avoid Hallucination_,
 
 * **16:30 - 18:00** CLEF 2024 Participant presentations (nnn minutes).
 
+* Jaime Collado-Montañez, Jenny Alexandra Ortiz-Zambrano, César Espin-Riofrio, Arturo Montejo-Ráez
+_SINAI in SimpleText CLEF 2025: Simplifying Biomedical Scientific Texts and Identifying Hallucinations Using GPT-4.1 and Pattern Detection_, 4207-4221
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_348.pdf)).
+
 * Nico Hofmann, Julian Dauenhauer, Nils Ole Dietzler, Idehen Daniel Idahor, **Christin Katharina Kreutz**
 _THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts_, 4258-4267
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_352.pdf)).
+
+* Anya Amel Nait Djoudi, Sarah Nouali, Mohsine Aabid, Ismail Badache, Adrian-Gabriel Chifu, Patrice Bellot
+_LIS at SimpleText 2025: Enhancing Scientific Text Accessibility with LLMs and Retrieval-Augmented Generation_, 4330-4337
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_358.pdf)).
 
 * Taiki Papandreou, **Jan Bakker**, Jaap Kamps
 _University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
@@ -64,10 +72,6 @@ _University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
 * **Benjamin Vendeville**, Liana Ermakova, Pierre De Loor, Jaap Kamps
 _UBOnlp Report at the SimpleText lab of CLEF 2025_, 4345-4357
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_360.pdf)).
-
-* XXX
-
-* XXX
 
 * XXX
   
