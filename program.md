@@ -19,6 +19,10 @@ SimpleText Track sessions take place in **Room Ricardo Marin** (_Facultad de Edu
 * Teams link for track sessions: XXX
 * If you registered for CLEF (online), the conference will provide the links for plenary sessions.
 
+## Tuesday 9th September 
+
+* No CLEF 2025 SimpleText Track sessions.
+
 ## Wednesday 10th September 
 
 ### Main Conference Session 2 (Salón de Actos) 
@@ -49,13 +53,17 @@ _Overview of the CLEF 2025 SimpleText Task 2: Identify and Avoid Hallucination_,
 
 * **16:30 - 18:00** CLEF 2024 Participant presentations (nnn minutes).
 
-* XXX
+* Nico Hofmann, Julian Dauenhauer, Nils Ole Dietzler, Idehen Daniel Idahor, **Christin Katharina Kreutz**
+_THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts_, 4258-4267
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_352.pdf)).
 
-* XXX
+* Taiki Papandreou, **Jan Bakker**, Jaap Kamps
+_University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_359.pdf)).
 
-* XXX
-
-* XXX
+* **Benjamin Vendeville**, Liana Ermakova, Pierre De Loor, Jaap Kamps
+_UBOnlp Report at the SimpleText lab of CLEF 2025_, 4345-4357
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_360.pdf)).
 
 * XXX
 
@@ -69,9 +77,9 @@ _Overview of the CLEF 2025 SimpleText Task 2: Identify and Avoid Hallucination_,
 
 * **14:15 - 15:15** CLEF 2024 Participant presentations (nnn minutes).
 
-* XXX
-
-* XXX
+* 📶 Nicholas Largey, Deiby Wu, Behrooz Mansouri
+_AIIRLab Systems for CLEF 2025 SimpleText: Cross-Encoders to Avoid Spurious Generation_, 4293-4305
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_355.pdf)).
 
 * XXX
 
@@ -104,17 +112,6 @@ _Overview of the CLEF 2025 SimpleText Task 2: Identify and Avoid Hallucination_,
 ## All CLEF 2025 SimpleText track papers 
 
 ### Including authors unable to present in-person or online:
-
-SimpleText Lab: Improving Access to Scientific Texts for Everyone
-
-* Eric Sanjuan, Stéphane Huet, Jaap Kamps, Liana Ermakova
-_Overview of the CLEF 2024 SimpleText Task 1: Retrieve Passages to Include in a Simplified Summary_, 3115-3128
-([Paper](https://ceur-ws.org/Vol-3740/paper-305.pdf)).
-
-* Giorgio Maria Di Nunzio, Federica Vezzani, Vanessa Bonato, Hosein Azarbonyad, Jaap Kamps, Liana Ermakova
-_Overview of the CLEF 2024 SimpleText Task 2: Identify and Explain Difficult Concepts_, 3129-3146
-([Paper](https://ceur-ws.org/Vol-3740/paper-306.pdf)).
-
 
 Simplify Scientific Text (and Nothing More) (SimpleText)
 
