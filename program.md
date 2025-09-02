@@ -61,7 +61,7 @@ _SINAI in SimpleText CLEF 2025: Simplifying Biomedical Scientific Texts and Iden
 _THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts_, 4258-4267
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_352.pdf)).
 
-* Anya Amel Nait Djoudi, Sarah Nouali, Mohsine Aabid, Ismail Badache, Adrian-Gabriel Chifu, Patrice Bellot
+* **Anya Amel Nait Djoudi**, Sarah Nouali, Mohsine Aabid, Ismail Badache, Adrian-Gabriel Chifu, Patrice Bellot
 _LIS at SimpleText 2025: Enhancing Scientific Text Accessibility with LLMs and Retrieval-Augmented Generation_, 4330-4337
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_358.pdf)).
 
