@@ -81,7 +81,7 @@ _LIS at SimpleText 2025: Enhancing Scientific Text Accessibility with LLMs and R
 
 ### SimpleText Session 3/3 (Room Ricardo Marin)
 
-* **14:15 - 15:15** CLEF 2024 Participant presentations (10+n minutes).
+* **14:15 - 15:30** CLEF 2024 Participant presentations (10+n minutes).
 
 * Taiki Papandreou, **Jan Bakker**, Jaap Kamps
 _University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
@@ -105,9 +105,13 @@ _UBOnlp Report at the SimpleText lab of CLEF 2025_, 4345-4357
 _AIIRLab Systems for CLEF 2025 SimpleText: Cross-Encoders to Avoid Spurious Generation_, 4293-4305
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_355.pdf)).
 
+* Stéphane Huet, **Eric Sanjuan**
+_A Benchmark Collection for Assessing Scholarly Search by Non-Educated Users_, 4268-4282
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_353.pdf)).
+
 * (Time for additional talks, depending on demand, from the SimpleText track.)
 
-* **15:15 - 15:45** SimpleText 2026 planning session:
+* **15:30 - 15:45** SimpleText 2026 planning session:
     * We want to hear from *you*!
     * What was great about 2025, and what could we improve for you?
     * Any ideas or volunteers are welcome!
