@@ -14,7 +14,7 @@ title: Program
   
 ------------------------------------------------------------
 
-SimpleText Track sessions take place in **Room Ricardo Marin** (_Facultad de Educación_) except for the plenary CLEF conference sessions in **Salón de Actos** (_Facultad de Educación_).    
+SimpleText Track sessions take place in **Room Ricardo Marin** (_Facultad de Educación_), except for the plenary CLEF conference sessions in **Salón de Actos** (_Facultad de Educación_).    
 
 * Teams link for track sessions: XXX
 * If you registered for CLEF (online), the conference will provide the links for plenary sessions.
@@ -51,23 +51,37 @@ _Overview of the CLEF 2025 SimpleText Task 2: Identify and Avoid Hallucination_,
 
 ### SimpleText Session 2/3 (Room Ricardo Marin)
 
-* **16:30 - 18:00** CLEF 2024 Participant presentations (nnn minutes).
+* **16:30 - 18:00** CLEF 2024 Participant presentations (10+n minutes).
 
-* Jaime Collado-Montañez, Jenny Alexandra Ortiz-Zambrano, César Espin-Riofrio, Arturo Montejo-Ráez
+* **Marvin M. Agüero-Torales**, Carlos Rodríguez Abellán, Carlos A. Castaño Moraga
+_Sentence-level Scientific Text Simplification With Just a Pinch of Data_, 4187-4192
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_346.pdf)).
+
+* **Jaime Collado-Montañez**, Jenny Alexandra Ortiz-Zambrano, César Espin-Riofrio, Arturo Montejo-Ráez
 _SINAI in SimpleText CLEF 2025: Simplifying Biomedical Scientific Texts and Identifying Hallucinations Using GPT-4.1 and Pattern Detection_, 4207-4221
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_348.pdf)).
+
+* **Ygor Gallina**, Tania Jiménez, Stéphane Huet
+_University of Avignon at the CLEF 2025 SimpleText Track: Guided Medical Abstract Simplification_, 4245-4257
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_351.pdf)).
 
 * Nico Hofmann, Julian Dauenhauer, Nils Ole Dietzler, Idehen Daniel Idahor, **Christin Katharina Kreutz**
 _THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts_, 4258-4267
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_352.pdf)).
 
-* Primoz Kocbek, Gregor Stiglic
+* **Primoz Kocbek**, Gregor Stiglic
 _UM_FHS at the CLEF 2025 SimpleText Track: Comparing No-Context and Fine-Tune Approaches for GPT-4.1 Models in Sentence and Document-Level Text Simplification_, 4283-4292
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_354.pdf)).
 
 * **Anya Amel Nait Djoudi**, Sarah Nouali, Mohsine Aabid, Ismail Badache, Adrian-Gabriel Chifu, Patrice Bellot
 _LIS at SimpleText 2025: Enhancing Scientific Text Accessibility with LLMs and Retrieval-Augmented Generation_, 4330-4337
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_358.pdf)).
+  
+## Thursday 11th September 
+
+### SimpleText Session 3/3 (Room Ricardo Marin)
+
+* **14:15 - 15:15** CLEF 2024 Participant presentations (10+n minutes).
 
 * Taiki Papandreou, **Jan Bakker**, Jaap Kamps
 _University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
@@ -76,12 +90,16 @@ _University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
 * **Benjamin Vendeville**, Liana Ermakova, Pierre De Loor, Jaap Kamps
 _UBOnlp Report at the SimpleText lab of CLEF 2025_, 4345-4357
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_360.pdf)).
-  
-## Thursday 11th September 
 
-### SimpleText Session 3/3 (Room Ricardo Marin)
+* 📶 *Krishna Chaitanya Marturi, Heba H. Elwazzan _DS@GT at CLEF 2025 SimpleText_ (one slot for both tasks):
+ 
+    * Krishna Chaitanya Marturi, Heba H. Elwazzan
+    _Hallucination Detection and Mitigation in Scientific Text Simplification using Ensemble Approaches: DS@GT at CLEF 2025 SimpleText_, 4306-4319
+    ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_356.pdf)).
 
-* **14:15 - 15:15** CLEF 2024 Participant presentations (nnn minutes).
+    * Krishna Chaitanya Marturi, Heba H. Elwazzan
+    _LLM-Guided Planning and Summary-Based Scientific Text Simplification: DS@GT at CLEF 2025 SimpleText_, 4320-4329
+    ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_357.pdf)).
 
 * 📶 Nicholas Largey, Deiby Wu, Behrooz Mansouri
 _AIIRLab Systems for CLEF 2025 SimpleText: Cross-Encoders to Avoid Spurious Generation_, 4293-4305
