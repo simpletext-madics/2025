@@ -53,7 +53,7 @@ _Overview of the CLEF 2025 SimpleText Task 2: Identify and Avoid Hallucination_,
 
 ### SimpleText Session 2/3 (Room Ricardo Marin)
 
-* **16:30 - 18:00** CLEF 2024 Participant presentations (10+n minutes).
+* **16:30 - 18:00** CLEF 2024 Participant presentations (10+5 minutes).
 
 * **Marvin M. Agüero-Torales**, Carlos Rodríguez Abellán, Carlos A. Castaño Moraga
 _Sentence-level Scientific Text Simplification With Just a Pinch of Data_, 4187-4192
@@ -83,7 +83,7 @@ _LIS at SimpleText 2025: Enhancing Scientific Text Accessibility with LLMs and R
 
 ### SimpleText Session 3/3 (Room Ricardo Marin)
 
-* **14:15 - 15:30** CLEF 2024 Participant presentations (10+n minutes).
+* **14:15 - 15:40** CLEF 2024 Participant presentations (10+5 minutes).
 
 * Taiki Papandreou, **Jan Bakker**, Jaap Kamps
 _University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
@@ -107,13 +107,17 @@ _UBOnlp Report at the SimpleText lab of CLEF 2025_, 4345-4357
 _AIIRLab Systems for CLEF 2025 SimpleText: Cross-Encoders to Avoid Spurious Generation_, 4293-4305
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_355.pdf)).
 
+* 📶 **Ansh Vora**, Tanish Chaudhari, Sanjeev Hotha, Sheetal Sonawane
+_S-3 Pipeline for Biomedical Text Simplification_, 4358-4369
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_361.pdf)).
+
 * Stéphane Huet, **Eric Sanjuan**
 _A Benchmark Collection for Assessing Scholarly Search by Non-Educated Users_, 4268-4282
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_353.pdf)).
 
 * (Time for additional talks, depending on demand, from the SimpleText track.)
 
-* **15:30 - 15:45** SimpleText 2026 planning session:
+* **15:40 - 15:45** SimpleText 2026 planning session:
     * We want to hear from *you*!
     * What was great about 2025, and what could we improve for you?
     * Any ideas or volunteers are welcome!
