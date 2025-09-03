@@ -91,7 +91,7 @@ _University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
 _UBOnlp Report at the SimpleText lab of CLEF 2025_, 4345-4357
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_360.pdf)).
 
-* 📶 *Krishna Chaitanya Marturi, Heba H. Elwazzan _DS@GT at CLEF 2025 SimpleText_ (one slot for both tasks):
+* 📶 **Krishna Chaitanya Marturi**, Heba H. Elwazzan _DS@GT at CLEF 2025 SimpleText_ (one slot for both tasks):
  
     * Krishna Chaitanya Marturi, Heba H. Elwazzan
     _Hallucination Detection and Mitigation in Scientific Text Simplification using Ensemble Approaches: DS@GT at CLEF 2025 SimpleText_, 4306-4319
@@ -101,11 +101,9 @@ _UBOnlp Report at the SimpleText lab of CLEF 2025_, 4345-4357
     _LLM-Guided Planning and Summary-Based Scientific Text Simplification: DS@GT at CLEF 2025 SimpleText_, 4320-4329
     ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_357.pdf)).
 
-* 📶 Nicholas Largey, Deiby Wu, Behrooz Mansouri
+* 📶 **Nicholas Largey**, Deiby Wu, Behrooz Mansouri
 _AIIRLab Systems for CLEF 2025 SimpleText: Cross-Encoders to Avoid Spurious Generation_, 4293-4305
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_355.pdf)).
-
-* XXX
 
 * (Time for additional talks, depending on demand, from the SimpleText track.)
 
