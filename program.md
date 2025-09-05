@@ -9,7 +9,7 @@ title: Program
 
 * [CLEF 2025 registration](https://clef2025.clef-initiative.eu/index.php?page=Pages/registrationConference.html)
 * [CLEF 2025 program](https://clef2025.clef-initiative.eu/index.php?page=Pages/programme.html)
-* [CLEF 2025 LNCS Proceedings](https://link.springer.com/book/9783032043535)
+* [CLEF 2025 LNCS Proceedings](https://doi.org/10.1007/978-3-032-04354-2)
 * [CLEF 2025 Working Notes (draft)](https://www.dei.unipd.it/~faggioli/temp/clef2025/)
   
 ------------------------------------------------------------
@@ -27,11 +27,11 @@ SimpleText Track sessions take place in **Room Ricardo Marin** (_Facultad de Edu
 
 ### Main Conference Session 2 (Salón de Actos) 
 
-* 📶 **10:00 – 10:20** **N. Largey**, R. Maarefdoust, S. Durgin, B. Mansouri, _SimpleText Best of Labs in CLEF-2024: Application of Large Language Models for Scientific Text Simplification_ in: Proceedings of CLEF'25, LNCS, Springer, 2025 ([Paper](XXX), [Slides](slides/XXX)).
+* 📶 **10:00 – 10:20** **N. Largey**, R. Maarefdoust, S. Durgin, B. Mansouri, _SimpleText Best of Labs in CLEF-2024: Application of Large Language Models for Scientific Text Simplification_ in: Proceedings of CLEF'25, LNCS, Springer, 2025 ([Paper](https://doi.org/10.1007/978-3-032-04354-2_9) [Paper](XXX), [Slides](slides/XXX)).
 
 ### Main Conference Session 3 + Lab Overviews Session 2 (Salón de Actos) 
 
-* **12:30 – 12:50** **L. Ermakova**, H. Azarbonyad, J. Bakker, B. Vendeville, J. Kamps, _Overview of the CLEF 2025 SimpleText Track: Simplify Scientific Texts (and Nothing More)_ in: Proceedings of CLEF'25, LNCS, Springer, 2025 ([Paper](XXX), [Slides](slides/XXX)). 
+* **12:30 – 12:50** **L. Ermakova**, H. Azarbonyad, J. Bakker, B. Vendeville, J. Kamps, _Overview of the CLEF 2025 SimpleText Track: Simplify Scientific Texts (and Nothing More)_ in: Proceedings of CLEF'25, LNCS, Springer, 2025 ([Paper](https://doi.org/10.1007/978-3-032-04354-2_23), [Slides](slides/XXX)). 
   
 ### SimpleText Session 1/3 (Room Ricardo Marin)
 
