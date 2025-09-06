@@ -35,6 +35,8 @@ SimpleText Track sessions take place in **Room Ricardo Marin** (_Facultad de Edu
   
 ### SimpleText Session 1/3 (Room Ricardo Marin)
 
+* Room Ricardo Marin (SimpleText Track Sessions) [Wednesday Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzY5MmE0ZTUtMTk0NS00NTVlLWE5NjUtNTBhMDI5MTAyYWRh%40thread.v2/0?context=%7b%22Tid%22%3a%22b5587048-a070-43ad-b654-20a31e9b2d99%22%2c%22Oid%22%3a%227f60bcda-34f4-4f4b-a251-97c374d53f47%22%7d).
+
 * **14:15 - 15:00** Invited talk by **Horacio Saggion** (Universitat Pompeu Fabra, Barcelona, Spain) _"Text Simplification to Enable Democratic Participation in the iDEM project."_ ([Slides](slides/XXX)): 
 
 > **Abstract**: Several groups of people are excluded from democratic deliberation because the language used in this context may be too difficult for them to understand. Our iDEM project aims to reduce existing linguistic barriers in deliberative processes by developing technology to facilitate the translation of complicated text into Easy-to-Read formats that are more suitable for many people. In this talk, after a review of concepts and approaches to simplification, I will describe a lexical simplification system that can achieve state-of-the-art results with the use of a free and open-weight large language model for the Romance Languages in our project. Moreover, a sentence segmentation system will be  introduced which segments long sentences based on available Easy to Read training data.  Finally, I will  describe the current status of our  iDEM mobile app, which will make our technology available as a service.
@@ -52,6 +54,8 @@ _Overview of the CLEF 2025 SimpleText Task 2: Identify and Avoid Hallucination_,
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_345.pdf)).
 
 ### SimpleText Session 2/3 (Room Ricardo Marin)
+
+* Room Ricardo Marin (SimpleText Track Sessions) [Wednesday Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzY5MmE0ZTUtMTk0NS00NTVlLWE5NjUtNTBhMDI5MTAyYWRh%40thread.v2/0?context=%7b%22Tid%22%3a%22b5587048-a070-43ad-b654-20a31e9b2d99%22%2c%22Oid%22%3a%227f60bcda-34f4-4f4b-a251-97c374d53f47%22%7d).
 
 * **16:30 - 18:00** CLEF 2024 Participant presentations (10+5 minutes).
 
@@ -82,6 +86,8 @@ _LIS at SimpleText 2025: Enhancing Scientific Text Accessibility with LLMs and R
 ## Thursday 11th September 
 
 ### SimpleText Session 3/3 (Room Ricardo Marin)
+
+* Room Ricardo Marin (SimpleText Track Sessions) [Thursday Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGQyOTQ4ZWItYTA0Yy00OGRjLWExNjgtZjVjOWRmNjUyNDcw%40thread.v2/0?context=%7b%22Tid%22%3a%22b5587048-a070-43ad-b654-20a31e9b2d99%22%2c%22Oid%22%3a%227f60bcda-34f4-4f4b-a251-97c374d53f47%22%7d).
 
 * **14:15 - 15:40** CLEF 2024 Participant presentations (10+5 minutes).
 
