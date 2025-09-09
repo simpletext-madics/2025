@@ -16,7 +16,7 @@ title: Program
 
 SimpleText Track sessions take place in **Room Ricardo Marin** (_Facultad de Educación_), except for the plenary CLEF conference sessions in **Salón de Actos** (_Facultad de Educación_).    
 
-* Teams link for track sessions (Virtual Room Ricardo Marin) [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzY5MmE0ZTUtMTk0NS00NTVlLWE5NjUtNTBhMDI5MTAyYWRh%40thread.v2/0?context=%7b%22Tid%22%3a%22b5587048-a070-43ad-b654-20a31e9b2d99%22%2c%22Oid%22%3a%227f60bcda-34f4-4f4b-a251-97c374d53f47%22%7d).
+* Teams link for track sessions (Virtual Room Ricardo Marin): [Teams Link Wed](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzY5MmE0ZTUtMTk0NS00NTVlLWE5NjUtNTBhMDI5MTAyYWRh%40thread.v2/0?context=%7b%22Tid%22%3a%22b5587048-a070-43ad-b654-20a31e9b2d99%22%2c%22Oid%22%3a%227f60bcda-34f4-4f4b-a251-97c374d53f47%22%7d); [Teams Link Thu](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGQyOTQ4ZWItYTA0Yy00OGRjLWExNjgtZjVjOWRmNjUyNDcw%40thread.v2/0?context=%7b%22Tid%22%3a%22b5587048-a070-43ad-b654-20a31e9b2d99%22%2c%22Oid%22%3a%227f60bcda-34f4-4f4b-a251-97c374d53f47%22%7d)
 
 * If you registered for CLEF (online), the conference will provide the links for plenary sessions.
 
