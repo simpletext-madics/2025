@@ -60,10 +60,6 @@ _Overview of the CLEF 2025 SimpleText Task 2: Identify and Avoid Hallucination_,
 _SINAI in SimpleText CLEF 2025: Simplifying Biomedical Scientific Texts and Identifying Hallucinations Using GPT-4.1 and Pattern Detection_, 4207-4221
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_348.pdf)).
 
-* **Marvin M. Agüero-Torales**, Carlos Rodríguez Abellán, Carlos A. Castaño Moraga
-_Sentence-level Scientific Text Simplification With Just a Pinch of Data_, 4187-4192
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_346.pdf)).
-
 * **Ygor Gallina**, Tania Jiménez, Stéphane Huet
 _University of Avignon at the CLEF 2025 SimpleText Track: Guided Medical Abstract Simplification_, 4245-4257
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_351.pdf)).
