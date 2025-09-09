@@ -78,7 +78,7 @@ _LIS at SimpleText 2025: Enhancing Scientific Text Accessibility with LLMs and R
 
 * Marvin M. Agüero-Torales, Carlos Rodríguez Abellán, Carlos A. Castaño Moraga
 _Sentence-level Scientific Text Simplification With Just a Pinch of Data_, 4187-4192
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_346.pdf)).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_346.pdf), Slides, Video?).
   
 ## Thursday 11th September 
 
