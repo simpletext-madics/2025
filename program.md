@@ -76,6 +76,10 @@ _UM_FHS at the CLEF 2025 SimpleText Track: Comparing No-Context and Fine-Tune Ap
 _LIS at SimpleText 2025: Enhancing Scientific Text Accessibility with LLMs and Retrieval-Augmented Generation_, 4330-4337
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_358.pdf)).
 
+* Taiki Papandreou, **Jan Bakker**, Jaap Kamps
+_University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_359.pdf)).
+
 * Marvin M. Agüero-Torales, Carlos Rodríguez Abellán, Carlos A. Castaño Moraga
 _Sentence-level Scientific Text Simplification With Just a Pinch of Data_, 4187-4192
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_346.pdf), Slides, Video?).
@@ -84,11 +88,7 @@ _Sentence-level Scientific Text Simplification With Just a Pinch of Data_, 4187-
 
 ### SimpleText Session 3/3 (Room Ricardo Marin)
 
-* **14:15 - 15:40** CLEF 2024 Participant presentations (10+5 minutes).
-
-* Taiki Papandreou, **Jan Bakker**, Jaap Kamps
-_University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_359.pdf)).
+* **14:15 - 15:30** CLEF 2024 Participant presentations (10+5 minutes).
 
 * **Benjamin Vendeville**, Liana Ermakova, Pierre De Loor, Jaap Kamps
 _UBOnlp Report at the SimpleText lab of CLEF 2025_, 4345-4357
@@ -118,7 +118,7 @@ _A Benchmark Collection for Assessing Scholarly Search by Non-Educated Users_, 4
 
 * (Time for additional talks, depending on demand, from the SimpleText track.)
 
-* **15:40 - 15:45** SimpleText 2026 planning session:
+* **15:30 - 15:45** SimpleText 2026 planning session:
     * We want to hear from *you*!
     * What was great about 2025, and what could we improve for you?
     * Any ideas or volunteers are welcome!
