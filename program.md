@@ -110,7 +110,7 @@ _AIIRLab Systems for CLEF 2025 SimpleText: Cross-Encoders to Avoid Spurious Gene
 
 * 📶 **Ansh Vora**, Tanish Chaudhari, Sanjeev Hotha, Sheetal Sonawane
 _S-3 Pipeline for Biomedical Text Simplification_, 4358-4369
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_361.pdf)).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_361.pdf), [Slides](slides/CLEF25SimpleText-PICT.pdf)).
 
 * Stéphane Huet, **Eric Sanjuan**
 _A Benchmark Collection for Assessing Scholarly Search by Non-Educated Users_, 4268-4282
