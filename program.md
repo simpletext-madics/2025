@@ -66,7 +66,7 @@ _University of Avignon at the CLEF 2025 SimpleText Track: Guided Medical Abstrac
 
 * Nico Hofmann, Julian Dauenhauer, Nils Ole Dietzler, Idehen Daniel Idahor, **Christin Katharina Kreutz**
 _THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts_, 4258-4267
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_352.pdf)).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_352.pdf), [Slides](slides/CLEF25SimpleText-THM.pdf)).
 
 * **Primoz Kocbek**, Gregor Stiglic
 _UM_FHS at the CLEF 2025 SimpleText Track: Comparing No-Context and Fine-Tune Approaches for GPT-4.1 Models in Sentence and Document-Level Text Simplification_, 4283-4292
