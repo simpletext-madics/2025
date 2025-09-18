@@ -122,7 +122,7 @@ _A Benchmark Collection for Assessing Scholarly Search by Non-Educated Users_, 4
     * We want to hear from *you*!
     * What was great about 2025, and what could we improve for you?
     * Any ideas or volunteers are welcome!
-    * SimpleText roadmap ([Slides](slides/XXX)):
+    * SimpleText roadmap ([Slides](slides/CLEF26SimpleText_Track_Overview.pdf)):
         * New data/tasks/setup in 2026?
         * Corpus of document/paragraph/sentence aligned Cochrane abstracts and plain English summaries.
           * Also available in other languages 
