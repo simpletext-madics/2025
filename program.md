@@ -32,7 +32,7 @@ SimpleText Track sessions take place in **Room Ricardo Marin** (_Facultad de Edu
 
 ### Main Conference Session 3 + Lab Overviews Session 2 (Salón de Actos) 
 
-* **12:30 – 12:50** **L. Ermakova**, H. Azarbonyad, J. Bakker, B. Vendeville, J. Kamps, _Overview of the CLEF 2025 SimpleText Track: Simplify Scientific Texts (and Nothing More)_ in: Proceedings of CLEF'25, LNCS, Springer, 2025 ([Paper](https://doi.org/10.1007/978-3-032-04354-2_23), [Slides](slides/XXX)). 
+* **12:30 – 12:50** **L. Ermakova**, H. Azarbonyad, J. Bakker, B. Vendeville, J. Kamps, _Overview of the CLEF 2025 SimpleText Track: Simplify Scientific Texts (and Nothing More)_ in: Proceedings of CLEF'25, LNCS, Springer, 2025 ([Paper](https://doi.org/10.1007/978-3-032-04354-2_23), [Slides](slides/CLEF25SimpleText_Track_Overview.pdf)). 
   
 ### SimpleText Session 1/3 (Room Ricardo Marin)
 
@@ -46,11 +46,11 @@ SimpleText Track sessions take place in **Room Ricardo Marin** (_Facultad de Edu
 
 * Jan Bakker, Benjamin Vendeville, Liana Ermakova, **Jaap Kamps**
 _Overview of the CLEF 2025 SimpleText Task 1: Simplify Scientific Text_, 4150-4167
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_344.pdf)).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_344.pdf), [Slides](slides/CLEF25SimpleText_Task_Overview.pdf)).
 
 * **Benjamin Vendeville**, Jan Bakker, Hosein Azarbonyad, Liana Ermakova, Jaap Kamps
 _Overview of the CLEF 2025 SimpleText Task 2: Identify and Avoid Hallucination_, 4168-4186
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_345.pdf)).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_345.pdf), [Slides](slides/CLEF25SimpleText_Task_Overview.pdf)).
 
 ### SimpleText Session 2/3 (Room Ricardo Marin)
 
@@ -62,7 +62,7 @@ _SINAI in SimpleText CLEF 2025: Simplifying Biomedical Scientific Texts and Iden
 
 * **Ygor Gallina**, Tania Jiménez, Stéphane Huet
 _University of Avignon at the CLEF 2025 SimpleText Track: Guided Medical Abstract Simplification_, 4245-4257
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_351.pdf)).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_351.pdf), [Slides](slides/CLEF25SimpleText-LIA.pdf)).
 
 * Nico Hofmann, Julian Dauenhauer, Nils Ole Dietzler, Idehen Daniel Idahor, **Christin Katharina Kreutz**
 _THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts_, 4258-4267
@@ -78,11 +78,11 @@ _LIS at SimpleText 2025: Enhancing Scientific Text Accessibility with LLMs and R
 
 * Taiki Papandreou, **Jan Bakker**, Jaap Kamps
 _University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_359.pdf)).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_359.pdf), [Slides](slides/CLEF25SimpleText-UvA.pdf)).
 
 * Marvin M. Agüero-Torales, Carlos Rodríguez Abellán, Carlos A. Castaño Moraga
 _Sentence-level Scientific Text Simplification With Just a Pinch of Data_, 4187-4192
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_346.pdf), Slides, Video?).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_346.pdf), [Slides](slides/CLEF25SimpleText-Fujitsu.pdf)).
   
 ## Thursday 11th September 
 
@@ -114,7 +114,7 @@ _S-3 Pipeline for Biomedical Text Simplification_, 4358-4369
 
 * Stéphane Huet, **Eric Sanjuan**
 _A Benchmark Collection for Assessing Scholarly Search by Non-Educated Users_, 4268-4282
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_353.pdf)).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_353.pdf), [Slides](slides/CLEF25SimpleText-Avignon.pdf)).
 
 * (Time for additional talks, depending on demand, from the SimpleText track.)
 
