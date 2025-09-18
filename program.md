@@ -80,7 +80,7 @@ _LIS at SimpleText 2025: Enhancing Scientific Text Accessibility with LLMs and R
 _University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_359.pdf), [Slides](slides/CLEF25SimpleText-UvA.pdf)).
 
-* Marvin M. Agüero-Torales, Carlos Rodríguez Abellán, Carlos A. Castaño Moraga
+* **Marvin M. Agüero-Torales**, Carlos Rodríguez Abellán, Carlos A. Castaño Moraga
 _Sentence-level Scientific Text Simplification With Just a Pinch of Data_, 4187-4192
 ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_346.pdf), [Slides](slides/CLEF25SimpleText-Fujitsu.pdf)).
   
@@ -92,7 +92,7 @@ _Sentence-level Scientific Text Simplification With Just a Pinch of Data_, 4187-
 
 * **Benjamin Vendeville**, Liana Ermakova, Pierre De Loor, Jaap Kamps
 _UBOnlp Report at the SimpleText lab of CLEF 2025_, 4345-4357
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_360.pdf)).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_360.pdf), [Slides](slides/CLEF25SimpleText-UBO.pdf)).
 
 * 📶 **Krishna Chaitanya Marturi**, Heba H. Elwazzan _DS@GT at CLEF 2025 SimpleText_ (one slot for both tasks):
  
