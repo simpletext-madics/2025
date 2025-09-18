@@ -138,7 +138,7 @@ _A Benchmark Collection for Assessing Scholarly Search by Non-Educated Users_, 4
 
 ### Closing Ceremony and Introduction of CLEF 2026 (Salón de Actos)
 
-* **13:00 - 14:00** Closing and plans for 2026 (including slides on the CLEF 2026 SimpleText track)
+* **13:00 - 14:00** Closing and plans for 2026 (including slides on the CLEF 2026 SimpleText track, [Slides](slides/CLEF26SimpleText_Track_Overview.pdf)).
 
 ## All CLEF 2025 SimpleText track papers 
 
