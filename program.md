@@ -74,7 +74,7 @@ _UM_FHS at the CLEF 2025 SimpleText Track: Comparing No-Context and Fine-Tune Ap
 
 * **Anya Amel Nait Djoudi**, Sarah Nouali, Mohsine Aabid, Ismail Badache, Adrian-Gabriel Chifu, Patrice Bellot
 _LIS at SimpleText 2025: Enhancing Scientific Text Accessibility with LLMs and Retrieval-Augmented Generation_, 4330-4337
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_358.pdf)).
+([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_358.pdf), [Slides](slides/CLEF25SimpleText-LIS.pdf)).
 
 * Taiki Papandreou, **Jan Bakker**, Jaap Kamps
 _University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
