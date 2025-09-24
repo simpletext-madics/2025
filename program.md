@@ -10,7 +10,7 @@ title: Program
 * [CLEF 2025 registration](https://clef2025.clef-initiative.eu/index.php?page=Pages/registrationConference.html)
 * [CLEF 2025 program](https://clef2025.clef-initiative.eu/index.php?page=Pages/programme.html)
 * [CLEF 2025 LNCS Proceedings](https://doi.org/10.1007/978-3-032-04354-2)
-* [CLEF 2025 Working Notes (draft)](https://www.dei.unipd.it/~faggioli/temp/clef2025/)
+* [CLEF 2025 Working Notes](https://ceur-ws.org/Vol-4038/)
   
 ------------------------------------------------------------
 
@@ -43,14 +43,16 @@ SimpleText Track sessions take place in **Room Ricardo Marin** (_Facultad de Edu
 > **Bio**: Horacio Saggion has made pioneering contributions to automatic text simplification, a field in which he has combined deep research with socially impactful applications. He authored the seminal book Automatic Text Simplification (2017). He led the development of Simplext, the first large-scale Spanish simplification system, recognized for improving access to information for people with cognitive disabilities and language learners. His work extends beyond simplification to areas such as summarization, information extraction, and text mining. More generally, he made key contributions advancing accessible NLP technologies that make complex texts in domains like news, finance, and science easier to understand. 
 
 * **15:00 - 15:45** CLEF 2024 SimpleText Task Overviews:
+<!-- https://www.dei.unipd.it/~faggioli/temp/clef2025/ -->
+<!-- https://ceur-ws.org/Vol-4038/ -->
 
 * Jan Bakker, Benjamin Vendeville, Liana Ermakova, **Jaap Kamps**
 _Overview of the CLEF 2025 SimpleText Task 1: Simplify Scientific Text_, 4150-4167
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_344.pdf), [Slides](slides/CLEF25SimpleText_Task_Overview.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_344.pdf), [Slides](slides/CLEF25SimpleText_Task_Overview.pdf)).
 
 * **Benjamin Vendeville**, Jan Bakker, Hosein Azarbonyad, Liana Ermakova, Jaap Kamps
 _Overview of the CLEF 2025 SimpleText Task 2: Identify and Avoid Hallucination_, 4168-4186
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_345.pdf), [Slides](slides/CLEF25SimpleText_Task_Overview.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_345.pdf), [Slides](slides/CLEF25SimpleText_Task_Overview.pdf)).
 
 ### SimpleText Session 2/3 (Room Ricardo Marin)
 
@@ -58,31 +60,31 @@ _Overview of the CLEF 2025 SimpleText Task 2: Identify and Avoid Hallucination_,
 
 * **Jaime Collado-Montañez**, Jenny Alexandra Ortiz-Zambrano, César Espin-Riofrio, Arturo Montejo-Ráez
 _SINAI in SimpleText CLEF 2025: Simplifying Biomedical Scientific Texts and Identifying Hallucinations Using GPT-4.1 and Pattern Detection_, 4207-4221
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_348.pdf), [Slides](slides/CLEF25SimpleText-SINAI.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_348.pdf), [Slides](slides/CLEF25SimpleText-SINAI.pdf)).
 
 * **Ygor Gallina**, Tania Jiménez, Stéphane Huet
 _University of Avignon at the CLEF 2025 SimpleText Track: Guided Medical Abstract Simplification_, 4245-4257
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_351.pdf), [Slides](slides/CLEF25SimpleText-LIA.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_351.pdf), [Slides](slides/CLEF25SimpleText-LIA.pdf)).
 
 * Nico Hofmann, Julian Dauenhauer, Nils Ole Dietzler, Idehen Daniel Idahor, **Christin Katharina Kreutz**
 _THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts_, 4258-4267
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_352.pdf), [Slides](slides/CLEF25SimpleText-THM.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_352.pdf), [Slides](slides/CLEF25SimpleText-THM.pdf)).
 
 * **Primoz Kocbek**, Gregor Stiglic
 _UM_FHS at the CLEF 2025 SimpleText Track: Comparing No-Context and Fine-Tune Approaches for GPT-4.1 Models in Sentence and Document-Level Text Simplification_, 4283-4292
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_354.pdf), [Slides](slides/CLEF25SimpleText-UM_FHS.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_354.pdf), [Slides](slides/CLEF25SimpleText-UM_FHS.pdf)).
 
 * **Anya Amel Nait Djoudi**, Sarah Nouali, Mohsine Aabid, Ismail Badache, Adrian-Gabriel Chifu, Patrice Bellot
 _LIS at SimpleText 2025: Enhancing Scientific Text Accessibility with LLMs and Retrieval-Augmented Generation_, 4330-4337
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_358.pdf), [Slides](slides/CLEF25SimpleText-LIS.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_358.pdf), [Slides](slides/CLEF25SimpleText-LIS.pdf)).
 
 * Taiki Papandreou, **Jan Bakker**, Jaap Kamps
 _University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_359.pdf), [Slides](slides/CLEF25SimpleText-UvA.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_359.pdf), [Slides](slides/CLEF25SimpleText-UvA.pdf)).
 
 * **Marvin M. Agüero-Torales**, Carlos Rodríguez Abellán, Carlos A. Castaño Moraga
 _Sentence-level Scientific Text Simplification With Just a Pinch of Data_, 4187-4192
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_346.pdf), [Slides](slides/CLEF25SimpleText-Fujitsu.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_346.pdf), [Slides](slides/CLEF25SimpleText-Fujitsu.pdf)).
   
 ## Thursday 11th September 
 
@@ -92,29 +94,29 @@ _Sentence-level Scientific Text Simplification With Just a Pinch of Data_, 4187-
 
 * **Benjamin Vendeville**, Liana Ermakova, Pierre De Loor, Jaap Kamps
 _UBOnlp Report at the SimpleText lab of CLEF 2025_, 4345-4357
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_360.pdf), [Slides](slides/CLEF25SimpleText-UBO.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_360.pdf), [Slides](slides/CLEF25SimpleText-UBO.pdf)).
 
 * 📶 **Krishna Chaitanya Marturi**, Heba H. Elwazzan _DS@GT at CLEF 2025 SimpleText_ (one slot for both tasks):
  
     * Krishna Chaitanya Marturi, Heba H. Elwazzan
     _Hallucination Detection and Mitigation in Scientific Text Simplification using Ensemble Approaches: DS@GT at CLEF 2025 SimpleText_, 4306-4319
-    ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_356.pdf)).
+    ([Paper](https://ceur-ws.org/Vol-4038/paper_356.pdf)).
 
     * Krishna Chaitanya Marturi, Heba H. Elwazzan
     _LLM-Guided Planning and Summary-Based Scientific Text Simplification: DS@GT at CLEF 2025 SimpleText_, 4320-4329
-    ([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_357.pdf)).
+    ([Paper](https://ceur-ws.org/Vol-4038/paper_357.pdf)).
 
 * 📶 **Nicholas Largey**, Deiby Wu, Behrooz Mansouri
 _AIIRLab Systems for CLEF 2025 SimpleText: Cross-Encoders to Avoid Spurious Generation_, 4293-4305
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_355.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_355.pdf)).
 
 * 📶 **Ansh Vora**, Tanish Chaudhari, Sanjeev Hotha, Sheetal Sonawane
 _S-3 Pipeline for Biomedical Text Simplification_, 4358-4369
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_361.pdf), [Slides](slides/CLEF25SimpleText-PICT.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_361.pdf), [Slides](slides/CLEF25SimpleText-PICT.pdf)).
 
 * Stéphane Huet, **Eric Sanjuan**
 _A Benchmark Collection for Assessing Scholarly Search by Non-Educated Users_, 4268-4282
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_353.pdf), [Slides](slides/CLEF25SimpleText-Avignon.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_353.pdf), [Slides](slides/CLEF25SimpleText-Avignon.pdf)).
 
 * (Time for additional talks, depending on demand, from the SimpleText track.)
 
@@ -148,74 +150,74 @@ Simplify Scientific Text (and Nothing More) (SimpleText)
 
 * Jan Bakker, Benjamin Vendeville, Liana Ermakova, Jaap Kamps
 _Overview of the CLEF 2025 SimpleText Task 1: Simplify Scientific Text_, 4150-4167
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_344.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_344.pdf)).
 
 * Benjamin Vendeville, Jan Bakker, Hosein Azarbonyad, Liana Ermakova, Jaap Kamps
 _Overview of the CLEF 2025 SimpleText Task 2: Identify and Avoid Hallucination_, 4168-4186
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_345.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_345.pdf)).
 
 * Marvin M. Agüero-Torales, Carlos Rodríguez Abellán, Carlos A. Castaño Moraga
 _Sentence-level Scientific Text Simplification With Just a Pinch of Data_, 4187-4192
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_346.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_346.pdf)).
 
 * Georgios Arampatzis, Avi Arampatzis
 _DUTH at CLEF 2025 SimpleText Track: Tackling Scientific Text Simplification and Hallucination Detection_, 4193-4206
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_347.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_347.pdf)).
 
 * Jaime Collado-Montañez, Jenny Alexandra Ortiz-Zambrano, César Espin-Riofrio, Arturo Montejo-Ráez
 _SINAI in SimpleText CLEF 2025: Simplifying Biomedical Scientific Texts and Identifying Hallucinations Using GPT-4.1 and Pattern Detection_, 4207-4221
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_348.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_348.pdf)).
 
 * Arya Adwait Dongre, Ankita Vaadiraaju, Anand Kumar Madasamy
 _NITK SCaLAR Lab at the CLEF 2025 SimpleText Track: Transformer-Based Models for Biomedical Sentence Simplification (Task 1.1)_, 4222-4236
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_349.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_349.pdf)).
 
 * Stergio Eugin, Beulah A, Sathvikha V, Sangamithra V
 _RECAIDSTechTitans at CLEF 2025: Simplifying Scientific Text and Identifying Spurious Sentences using T5_, 4237-4244
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_350.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_350.pdf)).
 
 * Ygor Gallina, Tania Jiménez, Stéphane Huet
 _University of Avignon at the CLEF 2025 SimpleText Track: Guided Medical Abstract Simplification_, 4245-4257
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_351.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_351.pdf)).
 
 * Nico Hofmann, Julian Dauenhauer, Nils Ole Dietzler, Idehen Daniel Idahor, Christin Katharina Kreutz
 _THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts_, 4258-4267
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_352.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_352.pdf)).
 
 * Stéphane Huet, Eric Sanjuan
 _A Benchmark Collection for Assessing Scholarly Search by Non-Educated Users_, 4268-4282
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_353.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_353.pdf)).
 
 * Primoz Kocbek, Gregor Stiglic
 _UM_FHS at the CLEF 2025 SimpleText Track: Comparing No-Context and Fine-Tune Approaches for GPT-4.1 Models in Sentence and Document-Level Text Simplification_, 4283-4292
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_354.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_354.pdf)).
 
 * Nicholas Largey, Deiby Wu, Behrooz Mansouri
 _AIIRLab Systems for CLEF 2025 SimpleText: Cross-Encoders to Avoid Spurious Generation_, 4293-4305
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_355.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_355.pdf)).
 
 * Krishna Chaitanya Marturi, Heba H. Elwazzan
 _Hallucination Detection and Mitigation in Scientific Text Simplification using Ensemble Approaches: DS@GT at CLEF 2025 SimpleText_, 4306-4319
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_356.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_356.pdf)).
 
 * Krishna Chaitanya Marturi, Heba H. Elwazzan
 _LLM-Guided Planning and Summary-Based Scientific Text Simplification: DS@GT at CLEF 2025 SimpleText_, 4320-4329
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_357.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_357.pdf)).
 
 * Anya Amel Nait Djoudi, Sarah Nouali, Mohsine Aabid, Ismail Badache, Adrian-Gabriel Chifu, Patrice Bellot
 _LIS at SimpleText 2025: Enhancing Scientific Text Accessibility with LLMs and Retrieval-Augmented Generation_, 4330-4337
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_358.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_358.pdf)).
 
 * Taiki Papandreou, Jan Bakker, Jaap Kamps
 _University of Amsterdam at the CLEF 2025 SimpleText Track_, 4338-4344
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_359.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_359.pdf)).
 
 * Benjamin Vendeville, Liana Ermakova, Pierre De Loor, Jaap Kamps
 _UBOnlp Report at the SimpleText lab of CLEF 2025_, 4345-4357
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_360.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_360.pdf)).
 
 * Ansh Vora, Tanish Chaudhari, Sanjeev Hotha, Sheetal Sonawane
 _S-3 Pipeline for Biomedical Text Simplification_, 4358-4369
-([Paper](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_361.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_361.pdf)).
 
 
