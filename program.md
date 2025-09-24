@@ -10,7 +10,7 @@ title: Program
 * [CLEF 2025 registration](https://clef2025.clef-initiative.eu/index.php?page=Pages/registrationConference.html)
 * [CLEF 2025 program](https://clef2025.clef-initiative.eu/index.php?page=Pages/programme.html)
 * [CLEF 2025 LNCS Proceedings](https://doi.org/10.1007/978-3-032-04354-2)
-* [CLEF 2025 Working Notes](https://ceur-ws.org/Vol-4038/)
+* [CLEF 2025 CEUR Working Notes](https://ceur-ws.org/Vol-4038/)
   
 ------------------------------------------------------------
 
