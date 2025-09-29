@@ -108,7 +108,7 @@ _UBOnlp Report at the SimpleText lab of CLEF 2025_, 4345-4357
 
 * 📶 **Nicholas Largey**, Deiby Wu, Behrooz Mansouri
 _AIIRLab Systems for CLEF 2025 SimpleText: Cross-Encoders to Avoid Spurious Generation_, 4293-4305
-([Paper](https://ceur-ws.org/Vol-4038/paper_355.pdf)).
+([Paper](https://ceur-ws.org/Vol-4038/paper_355.pdf), [Slides](slides/CLEF25SimpleText-AIIRLab.pdf)).
 
 * 📶 **Ansh Vora**, Tanish Chaudhari, Sanjeev Hotha, Sheetal Sonawane
 _S-3 Pipeline for Biomedical Text Simplification_, 4358-4369
