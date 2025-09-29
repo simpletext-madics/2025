@@ -36,7 +36,7 @@ SimpleText Track sessions take place in **Room Ricardo Marin** (_Facultad de Edu
   
 ### SimpleText Session 1/3 (Room Ricardo Marin)
 
-* **14:15 - 15:00** Invited talk by **Horacio Saggion** (Universitat Pompeu Fabra, Barcelona, Spain) _"Text Simplification to Enable Democratic Participation in the iDEM project."_ ([Project](https://idemproject.eu/), [Slides](slides/XXX)): 
+* **14:15 - 15:00** Invited talk by **Horacio Saggion** (Universitat Pompeu Fabra, Barcelona, Spain) _"Text Simplification to Enable Democratic Participation in the iDEM project."_ ([Project](https://idemproject.eu/), [Slides](slides/CLEF25SimpleText-Saggion_Keynote.pdf): 
 
 > **Abstract**: Several groups of people are excluded from democratic deliberation because the language used in this context may be too difficult for them to understand. Our iDEM project aims to reduce existing linguistic barriers in deliberative processes by developing technology to facilitate the translation of complicated text into Easy-to-Read formats that are more suitable for many people. In this talk, after a review of concepts and approaches to simplification, I will describe a lexical simplification system that can achieve state-of-the-art results with the use of a free and open-weight large language model for the Romance Languages in our project. Moreover, a sentence segmentation system will be  introduced which segments long sentences based on available Easy to Read training data.  Finally, I will  describe the current status of our  iDEM mobile app, which will make our technology available as a service.
 
