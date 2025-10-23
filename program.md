@@ -28,7 +28,7 @@ SimpleText Track sessions take place in **Room Ricardo Marin** (_Facultad de Edu
 
 ### Main Conference Session 2 (Salón de Actos) 
 
-* 📶 **10:00 – 10:20** **N. Largey**, R. Maarefdoust, S. Durgin, B. Mansouri, _SimpleText Best of Labs in CLEF-2024: Application of Large Language Models for Scientific Text Simplification_ in: Proceedings of CLEF'25, LNCS, Springer, 2025 ([Paper](https://doi.org/10.1007/978-3-032-04354-2_9), [Slides](slides/XXX)).
+* 📶 **10:00 – 10:20** **N. Largey**, R. Maarefdoust, S. Durgin, B. Mansouri, _SimpleText Best of Labs in CLEF-2024: Application of Large Language Models for Scientific Text Simplification_ in: Proceedings of CLEF'25, LNCS, Springer, 2025 ([Paper](https://doi.org/10.1007/978-3-032-04354-2_9), [Slides](slides/SimpleText25-BotL-AIIRLab.pdf)).
 
 ### Main Conference Session 3 + Lab Overviews Session 2 (Salón de Actos) 
 
